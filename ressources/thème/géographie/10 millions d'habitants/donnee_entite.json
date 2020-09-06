@@ -1,0 +1,181 @@
+{"appelation" : { 
+          "fr" : ["grande(s) ville(s) dans le monde", "grande(s) ville(s)", "ville(s) de plus de dix millions d'habitants"],
+          "en" : ["city with millions of inhabitants", "big city","big city the world"],
+	      "zh" : ["大城市", "千万人口城市"]
+    },
+  "libelle": {
+    "Q649": {
+      "fr": "Moscou",
+      "zh": "莫斯科",
+      "en": "Moscow"
+    },
+    "Q1490": {
+      "fr": "Tokyo",
+      "zh": "東京都",
+      "en": "Tokyo"
+    },
+    "Q956": {
+      "fr": "Pékin",
+      "zh": "北京市",
+      "en": "Beijing"
+    },
+    "Q1156": {
+      "fr": "Bombay",
+      "zh": "孟买",
+      "en": "Mumbai"
+    },
+    "Q406": {
+      "fr": "Istanbul",
+      "zh": "伊斯坦堡",
+      "en": "Istanbul"
+    },
+    "Q8686": {
+      "fr": "Shanghai",
+      "zh": "上海市",
+      "en": "Shanghai"
+    },
+    "Q1353": {
+      "fr": "Delhi",
+      "zh": "德里",
+      "en": "Delhi"
+    },
+    "Q1352": {
+      "fr": "Chennai",
+      "zh": "金奈",
+      "en": "Chennai"
+    },
+    "Q174": {
+      "fr": "São Paulo",
+      "zh": "聖保羅",
+      "en": "São Paulo"
+    },
+    "Q3630": {
+      "fr": "Jakarta",
+      "zh": "雅加达",
+      "en": "Jakarta"
+    },
+    "Q1355": {
+      "fr": "Bangalore",
+      "zh": "班加羅爾",
+      "en": "Bengaluru"
+    },
+    "Q16572": {
+      "fr": "Canton",
+      "zh": "廣州市",
+      "en": "Guangzhou"
+    },
+    "Q8660": {
+      "fr": "Karachi",
+      "zh": "卡拉奇",
+      "en": "Karachi"
+    },
+    "Q11739": {
+      "fr": "Lahore",
+      "zh": "拉合爾",
+      "en": "Lahore"
+    },
+    "Q1854": {
+      "fr": "Hô Chi Minh-Ville",
+      "zh": "胡志明市",
+      "en": "Ho Chi Minh City"
+    },
+    "Q1354": {
+      "fr": "Dacca",
+      "zh": "达卡市",
+      "en": "Dhaka"
+    },
+    "Q11736": {
+      "fr": "Tianjin",
+      "zh": "天津市",
+      "en": "Tianjin"
+    },
+    "Q8673": {
+      "fr": "Lagos",
+      "zh": "拉哥斯",
+      "en": "Lagos"
+    },
+    "Q15174": {
+      "fr": "Shenzhen",
+      "zh": "深圳市",
+      "en": "Shenzhen"
+    },
+    "Q30002": {
+      "fr": "Chengdu",
+      "zh": "成都市",
+      "en": "Chengdu"
+    },
+    "Q11746": {
+      "fr": "Wuhan",
+      "zh": "武汉市",
+      "en": "Wuhan"
+    },
+    "Q3838": {
+      "fr": "Kinshasa",
+      "zh": "金夏沙",
+      "en": "Kinshasa"
+    },
+    "Q42622": {
+      "fr": "Suzhou",
+      "zh": "苏州市",
+      "en": "Suzhou"
+    },
+    "Q58401": {
+      "fr": "Shijiazhuang",
+      "zh": "石家庄市",
+      "en": "Shijiazhuang"
+    },
+    "Q58584": {
+      "fr": "Baoding",
+      "zh": "保定市",
+      "en": "Baoding"
+    },
+    "Q404763": {
+      "fr": "Nanyang",
+      "zh": "南阳市",
+      "en": "Nanyang"
+    },
+    "Q373346": {
+      "fr": "Linyi",
+      "zh": "临沂市",
+      "en": "Linyi"
+    },
+    "Q4092880": {
+      "fr": "Q4092880",
+      "zh": "Q4092880",
+      "en": "Greater Tehran"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q649",
+      "Q1490",
+      "Q956",
+      "Q1156",
+      "Q406",
+      "Q8686",
+      "Q1353",
+      "Q1352",
+      "Q174",
+      "Q3630"
+    ],
+    "rares": [
+      "Q1355",
+      "Q16572",
+      "Q8660",
+      "Q11739",
+      "Q1854",
+      "Q1354",
+      "Q11736",
+      "Q8673",
+      "Q15174",
+      "Q30002",
+      "Q11746",
+      "Q3838",
+      "Q42622",
+      "Q58401",
+      "Q58584",
+      "Q404763",
+      "Q373346"
+    ]
+  }
+}

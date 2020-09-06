@@ -1,0 +1,83 @@
+{
+  "temps" : {"fr" : {"max" : [ "le(a) plus récent(e)", "le(a) moins ancien(ne)"],
+                    "min" : [ "le(a) plus ancien(ne)", "le(a) moins récent(e)"]
+                    },
+			"en" : {"max" : [ "the most recent", "the latest"],
+                     "min" : [ "the earliest"]
+                    },
+			"zh" : {"max" : [ "最晚"],
+                     "min" : [ "最早"]
+                    }
+			
+			},
+
+ "hauteur" : {"fr" : {"max" : [ "le(a) plus haut(e)", "le(a) plus élevé(e)", "le(a) moins bas(se)"],
+                      "min" : [ "le(a) plus bas(se)", "le(a) moins élevé(e)", "le(a) moins haut(e)"]
+                    },
+			"en" : {"max" : [ "the highest"],
+                    "min" : [ "the lowest"]
+                    },
+			"zh" : {"max" : [ "最高"],
+                     "min" : [ "最矮","最低"]
+                    }
+			
+			 },
+
+  "superficie" : {"fr" : {"max" : [ "le(a) plus grand(e)", "le(a) moins petit(e)"],
+                          "min" : [ "le(a) plus petit(e)", "le(a) moins grand(e)"]
+                    },
+			      "en" : {"max" : [ "the biggest"],
+                          "min" : [ "the smallest"]
+                    },
+			      "zh" : {"max" : [ "最大","最宽"],
+                         "min" : [ "最小"]
+                         }
+			
+			 },
+	"quantité" : {"fr" : {"max" : [ "le(a) plus nombreux(se)"],
+                          "min" : [ "le(a) moins nombreux(se)"]
+                    },
+			      "en" : {"max" : [ "the most numerous"],
+                          "min" : [ "the least numerous"]
+                    },
+			      "zh" : {"max" : [ "最多"],
+                         "min" : [ "最少"]
+                         }
+			
+			 },
+	"longueur" : {"fr" : {"max" : [ "le(a) plus long(ue)"],
+                          "min" : [ "le(a) moins long(ue)","le(a) plus court(e)"]
+                    },
+			      "en" : {"max" : [ "the longest"],
+                          "min" : [ "the shorted"]
+                    },
+			      "zh" : {"max" : [ "最长"],
+                         "min" : [ "最短"]
+                         }
+			
+			 },
+    "taux" : 	{"fr" : {"max" : [ "le plus élevé"],
+                          "min" : [ "le plus bas"]
+                    },
+			      "en" : {"max" : [ "the highest"],
+                          "min" : [ "the lowest"]
+                    },
+			      "zh" : {"max" : [ "最高"],
+                         "min" : [ "最低"]
+                         }
+				}	 
+			 		 
+			 
+
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+{ "localisation" : { "fr" : "en" ,
+                      "en" : "in",
+                      "zh" : ""
+                    },
+  "temps" : { "fr" : "en",
+              "en" : "in",
+              "zh" : ""
+			},
+     
+  "image" : {"fr" : "dans",
+             "en" : "in",
+             "zh" : ""
+            },
+  "superficie" : {"fr" : "sur",
+                  "en" : "over", 
+				  "zh" : ""
+                  },
+  "normal" :{"fr" : "",
+                  "en" : "", 
+				  "zh" : ""
+                  },
+"longueur" :{"fr" : "",
+                  "en" : "", 
+				  "zh" : ""
+                  }
+				  
+
+}

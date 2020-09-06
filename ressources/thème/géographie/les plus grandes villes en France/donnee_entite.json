@@ -1,0 +1,409 @@
+{ "appelation" : { 
+          "fr" : ["ville(s) française(s)", "grande(s) ville(s) française(s)", "grande(s) ville(s) en France"],
+          "en" : ["french city", "french big city","big city in France"],
+	      "zh" : ["法国大城市", "法国城市"]
+    },
+  "libelle": {
+    "Q90": {
+      "fr": "Paris",
+      "zh": "巴黎",
+      "en": "Paris"
+    },
+    "Q456": {
+      "fr": "Lyon",
+      "zh": "里昂",
+      "en": "Lyon"
+    },
+    "Q23482": {
+      "fr": "Marseille",
+      "zh": "马赛",
+      "en": "Marseille"
+    },
+    "Q6602": {
+      "fr": "Strasbourg",
+      "zh": "斯特拉斯堡",
+      "en": "Strasbourg"
+    },
+    "Q1479": {
+      "fr": "Bordeaux",
+      "zh": "波尔多",
+      "en": "Bordeaux"
+    },
+    "Q7880": {
+      "fr": "Toulouse",
+      "zh": "圖盧茲",
+      "en": "Toulouse"
+    },
+    "Q33959": {
+      "fr": "Nice",
+      "zh": "尼斯",
+      "en": "Nice"
+    },
+    "Q648": {
+      "fr": "Lille",
+      "zh": "里尔",
+      "en": "Lille"
+    },
+    "Q30974": {
+      "fr": "Rouen",
+      "zh": "鲁昂",
+      "en": "Rouen"
+    },
+    "Q6441": {
+      "fr": "Montpellier",
+      "zh": "蒙彼利埃",
+      "en": "Montpellier"
+    },
+    "Q12191": {
+      "fr": "Nantes",
+      "zh": "南特",
+      "en": "Nantes"
+    },
+    "Q6397": {
+      "fr": "Avignon",
+      "zh": "亞維農",
+      "en": "Avignon"
+    },
+    "Q1289": {
+      "fr": "Grenoble",
+      "zh": "格勒诺布尔",
+      "en": "Grenoble"
+    },
+    "Q41876": {
+      "fr": "Reims",
+      "zh": "汉斯",
+      "en": "Reims"
+    },
+    "Q6454": {
+      "fr": "Calais",
+      "zh": "加来",
+      "en": "Calais"
+    },
+    "Q6548": {
+      "fr": "Orléans",
+      "zh": "奥尔良",
+      "en": "Orléans"
+    },
+    "Q12193": {
+      "fr": "Brest",
+      "zh": "布雷斯特",
+      "en": "Brest"
+    },
+    "Q41604": {
+      "fr": "Amiens",
+      "zh": "亚眠",
+      "en": "Amiens"
+    },
+    "Q288": {
+      "fr": "Tours",
+      "zh": "图尔",
+      "en": "Tours"
+    },
+    "Q40898": {
+      "fr": "Nancy",
+      "zh": "南锡",
+      "en": "Nancy"
+    },
+    "Q45797": {
+      "fr": "Dunkerque",
+      "zh": "敦刻尔克",
+      "en": "Dunkirk"
+    },
+    "Q42810": {
+      "fr": "Le Havre",
+      "zh": "勒阿弗爾",
+      "en": "Le Havre"
+    },
+    "Q44160": {
+      "fr": "Toulon",
+      "zh": "土伦",
+      "en": "Toulon"
+    },
+    "Q7003": {
+      "fr": "Dijon",
+      "zh": "第戎",
+      "en": "Dijon"
+    },
+    "Q39984": {
+      "fr": "Cannes",
+      "zh": "戛纳",
+      "en": "Cannes"
+    },
+    "Q647": {
+      "fr": "Rennes",
+      "zh": "雷恩",
+      "en": "Rennes"
+    },
+    "Q41185": {
+      "fr": "Caen",
+      "zh": "卡昂",
+      "en": "Caen"
+    },
+    "Q47465": {
+      "fr": "Aix-en-Provence",
+      "zh": "普罗旺斯地区艾克斯",
+      "en": "Aix-en-Provence"
+    },
+    "Q6616": {
+      "fr": "Poitiers",
+      "zh": "普瓦捷",
+      "en": "Poitiers"
+    },
+    "Q6730": {
+      "fr": "Perpignan",
+      "zh": "佩皮尼昂",
+      "en": "Perpignan"
+    },
+    "Q1476": {
+      "fr": "Le Mans",
+      "zh": "勒芒",
+      "en": "Le Mans"
+    },
+    "Q82185": {
+      "fr": "La Rochelle",
+      "zh": "拉罗歇尔",
+      "en": "La Rochelle"
+    },
+    "Q37776": {
+      "fr": "Besançon",
+      "zh": "贝桑松",
+      "en": "Besançon"
+    },
+    "Q42168": {
+      "fr": "Clermont-Ferrand",
+      "zh": "克莱蒙费朗",
+      "en": "Clermont-Ferrand"
+    },
+    "Q42807": {
+      "fr": "Nîmes",
+      "zh": "尼姆",
+      "en": "Nîmes"
+    },
+    "Q38380": {
+      "fr": "Angers",
+      "zh": "昂热",
+      "en": "Angers"
+    },
+    "Q160506": {
+      "fr": "Saint-Denis",
+      "zh": "聖但尼",
+      "en": "Saint-Denis"
+    },
+    "Q45656": {
+      "fr": "Limoges",
+      "zh": "利摩日",
+      "en": "Limoges"
+    },
+    "Q42716": {
+      "fr": "Saint-Étienne",
+      "zh": "圣艾蒂安",
+      "en": "Saint-Étienne"
+    },
+    "Q132671": {
+      "fr": "Pau",
+      "zh": "波城",
+      "en": "Pau"
+    },
+    "Q79815": {
+      "fr": "Mulhouse",
+      "zh": "米卢斯",
+      "en": "Mulhouse"
+    },
+    "Q81621": {
+      "fr": "Fort-de-France",
+      "zh": "法兰西堡",
+      "en": "Fort-de-France"
+    },
+    "Q172455": {
+      "fr": "Boulogne-Billancourt",
+      "zh": "布洛涅-比扬古",
+      "en": "Boulogne-Billancourt"
+    },
+    "Q165090": {
+      "fr": "Chambéry",
+      "zh": "尚贝里",
+      "en": "Chambéry"
+    },
+    "Q174019": {
+      "fr": "Béziers",
+      "zh": "贝济耶",
+      "en": "Béziers"
+    },
+    "Q126898": {
+      "fr": "Antibes",
+      "zh": "昂蒂布",
+      "en": "Antibes"
+    },
+    "Q47045": {
+      "fr": "Saint-Denis",
+      "zh": "圣但尼",
+      "en": "Saint-Denis"
+    },
+    "Q170507": {
+      "fr": "Nanterre",
+      "zh": "楠泰尔",
+      "en": "Nanterre"
+    },
+    "Q46135": {
+      "fr": "Créteil",
+      "zh": "克雷泰伊",
+      "en": "Créteil"
+    },
+    "Q34001": {
+      "fr": "Roubaix",
+      "zh": "鲁贝",
+      "en": "Roubaix"
+    },
+    "Q189715": {
+      "fr": "Courbevoie",
+      "zh": "库尔布瓦",
+      "en": "Courbevoie"
+    },
+    "Q174002": {
+      "fr": "Colombes",
+      "zh": "白鸽城",
+      "en": "Colombes"
+    },
+    "Q181946": {
+      "fr": "Argenteuil",
+      "zh": "阿让特伊",
+      "en": "Argenteuil"
+    },
+    "Q193370": {
+      "fr": "Montreuil",
+      "zh": "蒙特勒伊",
+      "en": "Montreuil"
+    },
+    "Q582": {
+      "fr": "Villeurbanne",
+      "zh": "维勒班",
+      "en": "Villeurbanne"
+    },
+    "Q193920": {
+      "fr": "Rueil-Malmaison",
+      "zh": "吕埃-故居",
+      "en": "Rueil-Malmaison"
+    },
+    "Q182481": {
+      "fr": "Tourcoing",
+      "zh": "图尔宽",
+      "en": "Tourcoing"
+    },
+    "Q192773": {
+      "fr": "Aulnay-sous-Bois",
+      "zh": "欧奈苏布瓦",
+      "en": "Aulnay-sous-Bois"
+    },
+    "Q185066": {
+      "fr": "Cholet",
+      "zh": "紹萊",
+      "en": "Cholet"
+    },
+    "Q191415": {
+      "fr": "Asnières-sur-Seine",
+      "zh": "塞纳河畔阿涅勒",
+      "en": "Asnières-sur-Seine"
+    },
+    "Q249884": {
+      "fr": "Saint-Pierre",
+      "zh": "圣皮埃尔",
+      "en": "Saint-Pierre"
+    },
+    "Q72248": {
+      "fr": "Vitry-sur-Seine",
+      "zh": "塞纳河畔维特里",
+      "en": "Vitry-sur-Seine"
+    },
+    "Q205632": {
+      "fr": "Aubervilliers",
+      "zh": "奥贝维埃",
+      "en": "Aubervilliers"
+    },
+    "Q316887": {
+      "fr": "Saint-Paul",
+      "zh": "圣保罗",
+      "en": "Saint-Paul"
+    },
+    "Q192378": {
+      "fr": "Champigny-sur-Marne",
+      "zh": "马恩河畔尚皮尼",
+      "en": "Champigny-sur-Marne"
+    },
+    "Q13648": {
+      "fr": "Le Tampon",
+      "zh": "勒唐蓬",
+      "en": "Le Tampon"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q90",
+      "Q456",
+      "Q23482",
+      "Q6602",
+      "Q1479",
+      "Q7880",
+      "Q33959",
+      "Q648",
+      "Q30974",
+      "Q6441",
+      "Q12191",
+      "Q6397",
+      "Q1289"
+    ],
+    "rares": [
+      "Q41876",
+      "Q6454",
+      "Q6548",
+      "Q12193",
+      "Q41604",
+      "Q288",
+      "Q40898",
+      "Q45797",
+      "Q42810",
+      "Q44160",
+      "Q7003",
+      "Q39984",
+      "Q647",
+      "Q41185",
+      "Q47465",
+      "Q6616",
+      "Q6730",
+      "Q1476",
+      "Q82185",
+      "Q37776",
+      "Q42168",
+      "Q42807",
+      "Q38380",
+      "Q160506",
+      "Q45656",
+      "Q42716",
+      "Q132671",
+      "Q79815",
+      "Q81621",
+      "Q172455",
+      "Q165090",
+      "Q174019",
+      "Q126898",
+      "Q47045",
+      "Q170507",
+      "Q46135",
+      "Q34001",
+      "Q189715",
+      "Q174002",
+      "Q181946",
+      "Q193370",
+      "Q582",
+      "Q193920",
+      "Q182481",
+      "Q192773",
+      "Q185066",
+      "Q191415",
+      "Q249884",
+      "Q72248",
+      "Q205632",
+      "Q316887",
+      "Q192378"
+    ]
+  }
+}

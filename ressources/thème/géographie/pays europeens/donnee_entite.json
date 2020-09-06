@@ -1,0 +1,316 @@
+{"appelation" : { 
+          "fr" : ["pays", "pays europeen(s)", "pays en europe"],
+          "en" : ["country","european country", "country in europe"],
+	      "zh" : ["国家","欧洲国家"]
+    },
+ 
+
+  "libelle": {
+    "Q142": {
+      "fr": "France",
+      "zh": "法国",
+      "en": "France"
+    },
+    "Q145": {
+      "fr": "Royaume-Uni",
+      "zh": "英国",
+      "en": "Royaume-Uni"
+    },
+    "Q183": {
+      "fr": "Allemagne",
+      "zh": "德国",
+      "en": "Allemagne"
+    },
+    "Q159": {
+      "fr": "Russie",
+      "zh": "俄罗斯",
+      "en": "Russie"
+    },
+    "Q38": {
+      "fr": "Italie",
+      "zh": "意大利",
+      "en": "Italie"
+    },
+    "Q36": {
+      "fr": "Pologne",
+      "zh": "波兰",
+      "en": "Pologne"
+    },
+    "Q29": {
+      "fr": "Espagne",
+      "zh": "西班牙",
+      "en": "Espagne"
+    },
+    "Q218": {
+      "fr": "Roumanie",
+      "zh": "羅馬尼亞",
+      "en": "Roumanie"
+    },
+    "Q34": {
+      "fr": "Suède",
+      "zh": "瑞典",
+      "en": "Suède"
+    },
+    "Q39": {
+      "fr": "Suisse",
+      "zh": "瑞士",
+      "en": "Suisse"
+    },
+    "Q43": {
+      "fr": "Turquie",
+      "zh": "土耳其",
+      "en": "Turquie"
+    },
+    "Q20": {
+      "fr": "Norvège",
+      "zh": "挪威",
+      "en": "Norvège"
+    },
+    "Q41": {
+      "fr": "Grèce",
+      "zh": "希腊",
+      "en": "Grèce"
+    },
+    "Q40": {
+      "fr": "Autriche",
+      "zh": "奥地利",
+      "en": "Autriche"
+    },
+    "Q31": {
+      "fr": "Belgique",
+      "zh": "比利时",
+      "en": "Belgique"
+    },
+    "Q45": {
+      "fr": "Portugal",
+      "zh": "葡萄牙",
+      "en": "Portugal"
+    },
+    "Q227": {
+      "fr": "Azerbaïdjan",
+      "zh": "阿塞拜疆",
+      "en": "Azerbaïdjan"
+    },
+    "Q35": {
+      "fr": "Danemark",
+      "zh": "丹麦",
+      "en": "Danemark"
+    },
+    "Q212": {
+      "fr": "Ukraine",
+      "zh": "乌克兰",
+      "en": "Ukraine"
+    },
+    "Q33": {
+      "fr": "Finlande",
+      "zh": "芬兰",
+      "en": "Finlande"
+    },
+    "Q28": {
+      "fr": "Hongrie",
+      "zh": "匈牙利",
+      "en": "Hongrie"
+    },
+    "Q213": {
+      "fr": "Tchéquie",
+      "zh": "捷克",
+      "en": "Tchéquie"
+    },
+    "Q27": {
+      "fr": "Irlande",
+      "zh": "爱尔兰共和国",
+      "en": "Irlande"
+    },
+    "Q403": {
+      "fr": "Serbie",
+      "zh": "塞尔维亚",
+      "en": "Serbie"
+    },
+    "Q219": {
+      "fr": "Bulgarie",
+      "zh": "保加利亚",
+      "en": "Bulgarie"
+    },
+    "Q224": {
+      "fr": "Croatie",
+      "zh": "克罗地亚",
+      "en": "Croatie"
+    },
+    "Q215": {
+      "fr": "Slovénie",
+      "zh": "斯洛文尼亚",
+      "en": "Slovénie"
+    },
+    "Q191": {
+      "fr": "Estonie",
+      "zh": "爱沙尼亚",
+      "en": "Estonie"
+    },
+    "Q214": {
+      "fr": "Slovaquie",
+      "zh": "斯洛伐克",
+      "en": "Slovaquie"
+    },
+    "Q225": {
+      "fr": "Bosnie-Herzégovine",
+      "zh": "波斯尼亚和黑塞哥维那",
+      "en": "Bosnie-Herzégovine"
+    },
+    "Q37": {
+      "fr": "Lituanie",
+      "zh": "立陶宛",
+      "en": "Lituanie"
+    },
+    "Q211": {
+      "fr": "Lettonie",
+      "zh": "拉脫維亞",
+      "en": "Lettonie"
+    },
+    "Q189": {
+      "fr": "Islande",
+      "zh": "冰岛",
+      "en": "Islande"
+    },
+    "Q399": {
+      "fr": "Arménie",
+      "zh": "亞美尼亞",
+      "en": "Arménie"
+    },
+    "Q229": {
+      "fr": "Chypre",
+      "zh": "賽普勒斯",
+      "en": "Chypre"
+    },
+    "Q184": {
+      "fr": "Biélorussie",
+      "zh": "白俄罗斯",
+      "en": "Biélorussie"
+    },
+    "Q222": {
+      "fr": "Albanie",
+      "zh": "阿尔巴尼亚",
+      "en": "Albanie"
+    },
+    "Q230": {
+      "fr": "Géorgie",
+      "zh": "格鲁吉亚",
+      "en": "Géorgie"
+    },
+    "Q232": {
+      "fr": "Kazakhstan",
+      "zh": "哈萨克斯坦",
+      "en": "Kazakhstan"
+    },
+    "Q32": {
+      "fr": "Luxembourg",
+      "zh": "卢森堡",
+      "en": "Luxembourg"
+    },
+    "Q217": {
+      "fr": "Moldavie",
+      "zh": "摩尔多瓦",
+      "en": "Moldavie"
+    },
+    "Q221": {
+      "fr": "Macédoine du Nord",
+      "zh": "北马其顿",
+      "en": "Macédoine du Nord"
+    },
+    "Q233": {
+      "fr": "Malte",
+      "zh": "马耳他",
+      "en": "Malte"
+    },
+    "Q236": {
+      "fr": "Monténégro",
+      "zh": "蒙特內哥羅",
+      "en": "Monténégro"
+    },
+    "Q235": {
+      "fr": "Monaco",
+      "zh": "摩纳哥",
+      "en": "Monaco"
+    },
+    "Q237": {
+      "fr": "Cité du Vatican",
+      "zh": "梵蒂冈",
+      "en": "Cité du Vatican"
+    },
+    "Q347": {
+      "fr": "Liechtenstein",
+      "zh": "列支敦斯登",
+      "en": "Liechtenstein"
+    },
+    "Q228": {
+      "fr": "Andorre",
+      "zh": "安道尔",
+      "en": "Andorre"
+    },
+    "Q238": {
+      "fr": "Saint-Marin",
+      "zh": "圣马力诺",
+      "en": "Saint-Marin"
+    },
+    "Q29999": {
+      "fr": "Pays-Bas",
+      "zh": "荷兰王国",
+      "en": "Pays-Bas"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q142",
+      "Q145",
+      "Q183",
+      "Q159",
+      "Q38",
+      "Q36",
+      "Q29",
+      "Q218",
+      "Q34",
+      "Q39"
+    ],
+    "rares": [
+      "Q43",
+      "Q20",
+      "Q41",
+      "Q40",
+      "Q31",
+      "Q45",
+      "Q227",
+      "Q35",
+      "Q212",
+      "Q33",
+      "Q28",
+      "Q213",
+      "Q27",
+      "Q403",
+      "Q219",
+      "Q224",
+      "Q215",
+      "Q191",
+      "Q214",
+      "Q225",
+      "Q37",
+      "Q211",
+      "Q189",
+      "Q399",
+      "Q229",
+      "Q184",
+      "Q222",
+      "Q230",
+      "Q232",
+      "Q32",
+      "Q217",
+      "Q221",
+      "Q233",
+      "Q236",
+      "Q235",
+      "Q237",
+      "Q347",
+      "Q228",
+      "Q238",
+      "Q29999"
+    ]
+  }
+}

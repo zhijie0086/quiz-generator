@@ -1,0 +1,344 @@
+{"appelation" : { 
+          "fr" : ["pays", "pays africain", "pays en afrique"],
+          "en" : ["country","African country", "country in Africa"],
+	      "zh" : ["国家","非洲国家"]
+    },
+  "libelle": {
+    "Q258": {
+      "fr": "Afrique du Sud",
+      "zh": "南非",
+      "en": "South Africa"
+    },
+    "Q79": {
+      "fr": "Égypte",
+      "zh": "埃及",
+      "en": "Egypt"
+    },
+    "Q1033": {
+      "fr": "Nigeria",
+      "zh": "奈及利亞",
+      "en": "Nigeria"
+    },
+    "Q114": {
+      "fr": "Kenya",
+      "zh": "肯尼亚",
+      "en": "Kenya"
+    },
+    "Q1028": {
+      "fr": "Maroc",
+      "zh": "摩洛哥",
+      "en": "Morocco"
+    },
+    "Q115": {
+      "fr": "Éthiopie",
+      "zh": "埃塞俄比亚",
+      "en": "Ethiopia"
+    },
+    "Q262": {
+      "fr": "Algérie",
+      "zh": "阿尔及利亚",
+      "en": "Algeria"
+    },
+    "Q974": {
+      "fr": "République démocratique du Congo",
+      "zh": "刚果民主共和国",
+      "en": "Democratic Republic of the Congo"
+    },
+    "Q924": {
+      "fr": "Tanzanie",
+      "zh": "坦桑尼亚",
+      "en": "Tanzania"
+    },
+    "Q1019": {
+      "fr": "Madagascar",
+      "zh": "马达加斯加",
+      "en": "Madagascar"
+    },
+    "Q117": {
+      "fr": "Ghana",
+      "zh": "迦納",
+      "en": "Ghana"
+    },
+    "Q1049": {
+      "fr": "Soudan",
+      "zh": "苏丹",
+      "en": "Sudan"
+    },
+    "Q1045": {
+      "fr": "Somalie",
+      "zh": "索马里",
+      "en": "Somalia"
+    },
+    "Q1009": {
+      "fr": "Cameroun",
+      "zh": "喀麦隆",
+      "en": "Cameroon"
+    },
+    "Q954": {
+      "fr": "Zimbabwe",
+      "zh": "辛巴威",
+      "en": "Zimbabwe"
+    },
+    "Q948": {
+      "fr": "Tunisie",
+      "zh": "突尼西亞",
+      "en": "Tunisia"
+    },
+    "Q1016": {
+      "fr": "Libye",
+      "zh": "利比亚",
+      "en": "Libya"
+    },
+    "Q1036": {
+      "fr": "Ouganda",
+      "zh": "乌干达",
+      "en": "Uganda"
+    },
+    "Q916": {
+      "fr": "Angola",
+      "zh": "安哥拉",
+      "en": "Angola"
+    },
+    "Q1030": {
+      "fr": "Namibie",
+      "zh": "纳米比亚",
+      "en": "Namibia"
+    },
+    "Q1008": {
+      "fr": "Côte d'Ivoire",
+      "zh": "科特迪瓦",
+      "en": "Ivory Coast"
+    },
+    "Q1029": {
+      "fr": "Mozambique",
+      "zh": "莫桑比克",
+      "en": "Mozambique"
+    },
+    "Q1041": {
+      "fr": "Sénégal",
+      "zh": "塞内加尔",
+      "en": "Senegal"
+    },
+    "Q965": {
+      "fr": "Burkina Faso",
+      "zh": "布吉納法索",
+      "en": "Burkina Faso"
+    },
+    "Q953": {
+      "fr": "Zambie",
+      "zh": "赞比亚",
+      "en": "Zambia"
+    },
+    "Q912": {
+      "fr": "Mali",
+      "zh": "马里共和国",
+      "en": "Mali"
+    },
+    "Q1027": {
+      "fr": "Maurice",
+      "zh": "毛里求斯",
+      "en": "Mauritius"
+    },
+    "Q1014": {
+      "fr": "Liberia",
+      "zh": "利比里亚",
+      "en": "Liberia"
+    },
+    "Q1044": {
+      "fr": "Sierra Leone",
+      "zh": "塞拉利昂",
+      "en": "Sierra Leone"
+    },
+    "Q657": {
+      "fr": "Tchad",
+      "zh": "乍得",
+      "en": "Chad"
+    },
+    "Q963": {
+      "fr": "Botswana",
+      "zh": "波札那",
+      "en": "Botswana"
+    },
+    "Q1037": {
+      "fr": "Rwanda",
+      "zh": "卢旺达",
+      "en": "Rwanda"
+    },
+    "Q1000": {
+      "fr": "Gabon",
+      "zh": "加蓬",
+      "en": "Gabon"
+    },
+    "Q971": {
+      "fr": "République du Congo",
+      "zh": "刚果共和国",
+      "en": "Republic of the Congo"
+    },
+    "Q962": {
+      "fr": "Bénin",
+      "zh": "贝宁",
+      "en": "Benin"
+    },
+    "Q958": {
+      "fr": "Soudan du Sud",
+      "zh": "南苏丹",
+      "en": "South Sudan"
+    },
+    "Q1006": {
+      "fr": "Guinée",
+      "zh": "几内亚",
+      "en": "Guinea"
+    },
+    "Q1032": {
+      "fr": "Niger",
+      "zh": "尼日尔",
+      "en": "Niger"
+    },
+    "Q986": {
+      "fr": "Érythrée",
+      "zh": "厄立特里亚",
+      "en": "Eritrea"
+    },
+    "Q1011": {
+      "fr": "Cap-Vert",
+      "zh": "佛得角",
+      "en": "Cape Verde"
+    },
+    "Q1020": {
+      "fr": "Malawi",
+      "zh": "马拉维",
+      "en": "Malawi"
+    },
+    "Q929": {
+      "fr": "République centrafricaine",
+      "zh": "中非共和國",
+      "en": "Central African Republic"
+    },
+    "Q1025": {
+      "fr": "Mauritanie",
+      "zh": "毛里塔尼亚",
+      "en": "Mauritania"
+    },
+    "Q945": {
+      "fr": "Togo",
+      "zh": "多哥",
+      "en": "Togo"
+    },
+    "Q967": {
+      "fr": "Burundi",
+      "zh": "蒲隆地",
+      "en": "Burundi"
+    },
+    "Q1042": {
+      "fr": "Seychelles",
+      "zh": "塞舌尔",
+      "en": "Seychelles"
+    },
+    "Q1005": {
+      "fr": "Gambie",
+      "zh": "冈比亚",
+      "en": "The Gambia"
+    },
+    "Q1050": {
+      "fr": "Eswatini",
+      "zh": "斯威士兰",
+      "en": "Eswatini"
+    },
+    "Q983": {
+      "fr": "Guinée équatoriale",
+      "zh": "赤道几内亚",
+      "en": "Equatorial Guinea"
+    },
+    "Q1013": {
+      "fr": "Lesotho",
+      "zh": "莱索托",
+      "en": "Lesotho"
+    },
+    "Q1007": {
+      "fr": "Guinée-Bissau",
+      "zh": "幾內亞比索",
+      "en": "Guinea-Bissau"
+    },
+    "Q970": {
+      "fr": "Comores",
+      "zh": "葛摩",
+      "en": "Comoros"
+    },
+    "Q977": {
+      "fr": "Djibouti",
+      "zh": "吉布提",
+      "en": "Djibouti"
+    },
+    "Q1039": {
+      "fr": "Sao Tomé-et-Principe",
+      "zh": "圣多美和普林西比",
+      "en": "São Tomé and Príncipe"
+    },
+    "Q218023": {
+      "fr": "État libre d'Orange",
+      "zh": "奧蘭治自由邦",
+      "en": "Orange Free State"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q258",
+      "Q79",
+      "Q1033",
+      "Q114",
+      "Q1028",
+      "Q115",
+      "Q262",
+      "Q974",
+      "Q924",
+      "Q1019",
+      "Q117"
+    ],
+    "rares": [
+      "Q1049",
+      "Q1045",
+      "Q1009",
+      "Q954",
+      "Q948",
+      "Q1016",
+      "Q1036",
+      "Q916",
+      "Q1030",
+      "Q1008",
+      "Q1029",
+      "Q1041",
+      "Q965",
+      "Q953",
+      "Q912",
+      "Q1027",
+      "Q1014",
+      "Q1044",
+      "Q657",
+      "Q963",
+      "Q1037",
+      "Q1000",
+      "Q971",
+      "Q962",
+      "Q958",
+      "Q1006",
+      "Q1032",
+      "Q986",
+      "Q1011",
+      "Q1020",
+      "Q929",
+      "Q1025",
+      "Q945",
+      "Q967",
+      "Q1042",
+      "Q1005",
+      "Q1050",
+      "Q983",
+      "Q1013",
+      "Q1007",
+      "Q970",
+      "Q977",
+      "Q1039",
+      "Q218023"
+    ]
+  }
+}

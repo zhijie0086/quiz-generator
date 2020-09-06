@@ -1,0 +1,610 @@
+{ "appelation" : { 
+          "fr" : ["ville(s)", "grande(s) ville(s)", "grande(s) ville(s) dans le monde"],
+          "en" : ["city", "big city","big city in the world"],
+	      "zh" : ["大城市", "城市","世界上的大城市"]
+    },
+ 
+  "libelle": {
+    "Q1353": {
+      "fr": "Delhi",
+      "zh": "德里",
+      "en": "Delhi"
+    },
+    "Q8686": {
+      "fr": "Shanghai",
+      "zh": "上海市",
+      "en": "Shanghai"
+    },
+    "Q956": {
+      "fr": "Pékin",
+      "zh": "北京市",
+      "en": "Beijing"
+    },
+    "Q8673": {
+      "fr": "Lagos",
+      "zh": "拉哥斯",
+      "en": "Lagos"
+    },
+    "Q1354": {
+      "fr": "Dacca",
+      "zh": "达卡市",
+      "en": "Dhaka"
+    },
+    "Q1156": {
+      "fr": "Bombay",
+      "zh": "孟买",
+      "en": "Mumbai"
+    },
+    "Q8660": {
+      "fr": "Karachi",
+      "zh": "卡拉奇",
+      "en": "Karachi"
+    },
+    "Q406": {
+      "fr": "Istanbul",
+      "zh": "伊斯坦堡",
+      "en": "Istanbul"
+    },
+    "Q1490": {
+      "fr": "Tokyo",
+      "zh": "東京都",
+      "en": "Tokyo"
+    },
+   
+    "Q11736": {
+      "fr": "Tianjin",
+      "zh": "天津市",
+      "en": "Tianjin"
+    },
+    "Q16572": {
+      "fr": "Canton",
+      "zh": "廣州市",
+      "en": "Guangzhou"
+    },
+    "Q649": {
+      "fr": "Moscou",
+      "zh": "莫斯科",
+      "en": "Moscow"
+    },
+    "Q174": {
+      "fr": "São Paulo",
+      "zh": "聖保羅",
+      "en": "São Paulo"
+    },
+    "Q404763": {
+      "fr": "Nanyang",
+      "zh": "南阳市",
+      "en": "Nanyang"
+    },
+    "Q15174": {
+      "fr": "Shenzhen",
+      "zh": "深圳市",
+      "en": "Shenzhen"
+    },
+    "Q11746": {
+      "fr": "Wuhan",
+      "zh": "武汉市",
+      "en": "Wuhan"
+    },
+    "Q3838": {
+      "fr": "Kinshasa",
+      "zh": "金夏沙",
+      "en": "Kinshasa"
+    },
+    "Q1355": {
+      "fr": "Bangalore",
+      "zh": "班加羅爾",
+      "en": "Bengaluru"
+    },
+    "Q30002": {
+      "fr": "Chengdu",
+      "zh": "成都市",
+      "en": "Chengdu"
+    },
+    "Q373346": {
+      "fr": "Linyi",
+      "zh": "临沂市",
+      "en": "Linyi"
+    },
+    "Q58401": {
+      "fr": "Shijiazhuang",
+      "zh": "石家庄市",
+      "en": "Shijiazhuang"
+    },
+    "Q58584": {
+      "fr": "Baoding",
+      "zh": "保定市",
+      "en": "Baoding"
+    },
+    "Q11739": {
+      "fr": "Lahore",
+      "zh": "拉合爾",
+      "en": "Lahore"
+    },
+    "Q42622": {
+      "fr": "Suzhou",
+      "zh": "苏州市",
+      "en": "Suzhou"
+    },
+    "Q1854": {
+      "fr": "Hô-Chi-Minh-Ville",
+      "zh": "胡志明市",
+      "en": "Ho Chi Minh City"
+    },
+    "Q3630": {
+      "fr": "Jakarta",
+      "zh": "雅加达",
+      "en": "Jakarta"
+    },
+    "Q1352": {
+      "fr": "Chennai",
+      "zh": "金奈",
+      "en": "Chennai"
+    },
+    "Q198061": {
+      "fr": "Zhoukou",
+      "zh": "周口市",
+      "en": "Zhoukou"
+    },
+    "Q8684": {
+      "fr": "Séoul",
+      "zh": "首爾",
+      "en": "Seoul"
+    },
+    "Q4970": {
+      "fr": "Hangzhou",
+      "zh": "杭州市",
+      "en": "Hangzhou"
+    },
+    "Q217698": {
+      "fr": "Weifang",
+      "zh": "潍坊市",
+      "en": "Weifang"
+    },
+    "Q1361": {
+      "fr": "Hyderabad",
+      "zh": "海得拉巴",
+      "en": "Hyderabad"
+    },
+    "Q7473516": {
+      "fr": "Tokyo",
+      "zh": "东京",
+      "en": "Tokyo"
+    },
+    "Q1489": {
+      "fr": "Mexico",
+      "zh": "墨西哥城",
+      "en": "Mexico City"
+    },
+    "Q84": {
+      "fr": "Londres",
+      "zh": "倫敦",
+      "en": "London"
+    },
+    "Q3616": {
+      "fr": "Téhéran",
+      "zh": "德黑兰",
+      "en": "Tehran"
+    },
+    "Q332753": {
+      "fr": "Heze",
+      "zh": "菏泽市",
+      "en": "Heze"
+    },
+    "Q363166": {
+      "fr": "Ganzhou",
+      "zh": "赣州市",
+      "en": "Ganzhou"
+    },
+    "Q57719": {
+      "fr": "Xuzhou",
+      "zh": "徐州市",
+      "en": "Xuzhou"
+    },
+    "Q58570": {
+      "fr": "Handan",
+      "zh": "邯郸市",
+      "en": "Handan"
+    },
+    "Q60": {
+      "fr": "New York",
+      "zh": "纽约",
+      "en": "New York City"
+    },
+    "Q360584": {
+      "fr": "Fuyang",
+      "zh": "阜阳市",
+      "en": "Fuyang"
+    },
+    "Q59218": {
+      "fr": "Dongguan",
+      "zh": "东莞市",
+      "en": "Dongguan"
+    },
+    "Q372791": {
+      "fr": "Jining",
+      "zh": "济宁市",
+      "en": "Jining"
+    },
+    "Q3692": {
+      "fr": "Riyad",
+      "zh": "利雅德",
+      "en": "Riyadh"
+    },
+    "Q11725": {
+      "fr": "Chongqing",
+      "zh": "重庆市",
+      "en": "Chongqing"
+    },
+    "Q11720": {
+      "fr": "Shenyang",
+      "zh": "瀋陽市",
+      "en": "Shenyang"
+    },
+    "Q1858": {
+      "fr": "Hanoï",
+      "zh": "河內市",
+      "en": "Hanoi"
+    },
+    "Q2841": {
+      "fr": "Bogotá",
+      "zh": "波哥大",
+      "en": "Bogotá"
+    },
+    "Q92161": {
+      "fr": "Changchun",
+      "zh": "长春市",
+      "en": "Changchun"
+    },
+    "Q1070": {
+      "fr": "Ahmedabad",
+      "zh": "艾哈迈达巴德",
+      "en": "Ahmedabad"
+    },
+    "Q198240": {
+      "fr": "Zhumadian",
+      "zh": "驻马店市",
+      "en": "Zhumadian"
+    },
+    "Q42780": {
+      "fr": "Ningbo",
+      "zh": "宁波市",
+      "en": "Ningbo"
+    },
+    "Q852238": {
+      "fr": "Onitsha",
+      "zh": "奧尼查",
+      "en": "Onitsha"
+    },
+    "Q1865": {
+      "fr": "Kuala Lumpur",
+      "zh": "吉隆坡",
+      "en": "Kuala Lumpur"
+    },
+    "Q8646": {
+      "fr": "Hong Kong",
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "Q185684": {
+      "fr": "Hefei",
+      "zh": "合肥市",
+      "en": "Hefei"
+    },
+    "Q57947": {
+      "fr": "Nantong",
+      "zh": "南通市",
+      "en": "Nantong"
+    },
+    "Q57866": {
+      "fr": "Yancheng",
+      "zh": "盐城市",
+      "en": "Yancheng"
+    },
+    "Q34412": {
+      "fr": "Foshan",
+      "zh": "佛山市",
+      "en": "Foshan"
+    },
+    "Q179608": {
+      "fr": "Nanning",
+      "zh": "南寧市",
+      "en": "Nanning"
+    },
+    "Q144663": {
+      "fr": "Hengyang",
+      "zh": "衡陽市",
+      "en": "Hengyang"
+    },
+    "Q58422": {
+      "fr": "Tangshan",
+      "zh": "唐山市",
+      "en": "Tangshan"
+    },
+    "Q194531": {
+      "fr": "Shaoyang",
+      "zh": "邵陽市",
+      "en": "Shaoyang"
+    },
+    "Q174091": {
+      "fr": "Changsha",
+      "zh": "长沙市",
+      "en": "Changsha"
+    },
+    "Q30340": {
+      "fr": "Zhengzhou",
+      "zh": "郑州市",
+      "en": "Zhengzhou"
+    },
+    "Q404817": {
+      "fr": "Shangqiu",
+      "zh": "商丘市",
+      "en": "Shangqiu"
+    },
+    "Q1530": {
+      "fr": "Bagdad",
+      "zh": "巴格达",
+      "en": "Baghdad"
+    },
+    "Q59144": {
+      "fr": "Zhanjiang",
+      "zh": "湛江市",
+      "en": "Zhanjiang"
+    },
+    "Q58695": {
+      "fr": "Cangzhou",
+      "zh": "沧州市",
+      "en": "Cangzhou"
+    },
+    "Q38927": {
+      "fr": "Maoming",
+      "zh": "茂名市",
+      "en": "Maoming"
+    },
+    "Q71355": {
+      "fr": "Huanggang",
+      "zh": "黄冈市",
+      "en": "Huanggang"
+    },
+    "Q404873": {
+      "fr": "Xinyang",
+      "zh": "信阳市",
+      "en": "Xinyang"
+    },
+    "Q363479": {
+      "fr": "Shangrao",
+      "zh": "上饶市",
+      "en": "Shangrao"
+    },
+    "Q187136": {
+      "fr": "Luoyang",
+      "zh": "洛陽市",
+      "en": "Luoyang"
+    },
+    "Q486319": {
+      "fr": "préfecture de Bijie",
+      "zh": "毕节市",
+      "en": "Bijie"
+    },
+    "Q8678": {
+      "fr": "Rio de Janeiro",
+      "zh": "里约热内卢",
+      "en": "Rio de Janeiro"
+    },
+    "Q210493": {
+      "fr": "Yantai",
+      "zh": "烟台市",
+      "en": "Yantai"
+    },
+    "Q68695": {
+      "fr": "Quanzhou",
+      "zh": "泉州市",
+      "en": "Quanzhou"
+    },
+    "Q16666": {
+      "fr": "Nankin",
+      "zh": "南京市",
+      "en": "Nanjing"
+    },
+    "Q2887": {
+      "fr": "Santiago",
+      "zh": "圣地亚哥",
+      "en": "Santiago"
+    },
+    "Q182852": {
+      "fr": "Kunming",
+      "zh": "昆明市",
+      "en": "Kunming"
+    },
+    "Q426996": {
+      "fr": "Nanchong",
+      "zh": "南充市",
+      "en": "Nanchong"
+    },
+    "Q28994": {
+      "fr": "Zunyi",
+      "zh": "遵义市",
+      "en": "Zunyi"
+    },
+    "Q360702": {
+      "fr": "Lu'an",
+      "zh": "六安市",
+      "en": "Lu'an"
+    },
+    "Q363326": {
+      "fr": "Yichun",
+      "zh": "宜春市",
+      "en": "Yichun"
+    },
+    "Q58273": {
+      "fr": "Taizhou",
+      "zh": "台州市",
+      "en": "Taizhou"
+    },
+    "Q373564": {
+      "fr": "Liaocheng",
+      "zh": "聊城市",
+      "en": "Liaocheng"
+    },
+    "Q162442": {
+      "fr": "Prayagraj",
+      "zh": "安拉阿巴德",
+      "en": "Prayagraj"
+    },
+    "Q1538": {
+      "fr": "Pune",
+      "zh": "浦那",
+      "en": "Pune"
+    },
+    "Q4629": {
+      "fr": "Surate",
+      "zh": "苏拉特",
+      "en": "Surat"
+    },
+    "Q334": {
+      "fr": "Singapour",
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "Q496405": {
+      "fr": "Qujing",
+      "zh": "曲靖市",
+      "en": "Qujing"
+    },
+    "Q71284": {
+      "fr": "Xiangfan",
+      "zh": "襄阳市",
+      "en": "Xiangyang"
+    },
+    "Q170322": {
+      "fr": "Qingdao",
+      "zh": "青岛市",
+      "en": "Qingdao"
+    },
+    "Q5826": {
+      "fr": "Xi'an",
+      "zh": "西安市",
+      "en": "Xi'an"
+    },
+    "Q416544": {
+      "fr": "Changde",
+      "zh": "常德市",
+      "en": "Changde"
+    },
+    "Q71247": {
+      "fr": "Jingzhou",
+      "zh": "荆州市",
+      "en": "Jingzhou"
+    },
+    "Q1861": {
+      "fr": "Bangkok",
+      "zh": "曼谷",
+      "en": "Bangkok"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q1353",
+      "Q8686",
+      "Q956",
+      "Q8673",
+      "Q1354",
+      "Q1156",
+      "Q8660",
+      "Q406",
+      "Q1490",
+      "Q11736",
+      "Q16572",
+      "Q649",
+      "Q174",
+      "Q404763",
+      "Q15174",
+      "Q11746",
+      "Q3838",
+      "Q1355",
+      "Q30002"
+    ],
+    "rares": [
+      "Q373346",
+      "Q58401",
+      "Q58584",
+      "Q11739",
+      "Q42622",
+      "Q1854",
+      "Q3630",
+      "Q1352",
+      "Q198061",
+      "Q8684",
+      "Q4970",
+      "Q217698",
+      "Q1361",
+      "Q7473516",
+      "Q1489",
+      "Q84",
+      "Q3616",
+      "Q332753",
+      "Q363166",
+      "Q57719",
+      "Q58570",
+      "Q60",
+      "Q360584",
+      "Q59218",
+      "Q372791",
+      "Q3692",
+      "Q11725",
+      "Q11720",
+      "Q1858",
+      "Q2841",
+      "Q92161",
+      "Q1070",
+      "Q198240",
+      "Q42780",
+      "Q852238",
+      "Q1865",
+      "Q8646",
+      "Q185684",
+      "Q57947",
+      "Q57866",
+      "Q34412",
+      "Q179608",
+      "Q144663",
+      "Q58422",
+      "Q194531",
+      "Q174091",
+      "Q30340",
+      "Q404817",
+      "Q1530",
+      "Q59144",
+      "Q58695",
+      "Q38927",
+      "Q71355",
+      "Q404873",
+      "Q363479",
+      "Q187136",
+      "Q486319",
+      "Q8678",
+      "Q210493",
+      "Q68695",
+      "Q16666",
+      "Q2887",
+      "Q182852",
+      "Q426996",
+      "Q28994",
+      "Q360702",
+      "Q363326",
+      "Q58273",
+      "Q373564",
+      "Q162442",
+      "Q1538",
+      "Q4629",
+      "Q334",
+      "Q496405",
+      "Q71284",
+      "Q170322",
+      "Q5826",
+      "Q416544",
+      "Q71247",
+      "Q1861"
+    ]
+  }
+}

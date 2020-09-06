@@ -1,0 +1,39 @@
+{ "localisation" : { "fr" : "Quel" ,
+                      "en" : "Where",
+                      "zh" : ""
+                    },
+  "temps" : { "fr" : "Quand",
+              "en" : "When",
+              "zh" : ""
+			},
+     
+  "image" : {"fr" : "Quelle",
+             "en" : "Which",
+             "zh" : ""
+            },
+  "superficie" : {"fr" : "Quelle",
+                  "en" : "Which", 
+				  "zh" : ""
+                  },
+  "hauteur" : {"fr" : "Quel(le)",
+              "en" : "Which", 
+			  "zh" : ""
+           },
+  "normal" : {"fr" : "Quel(le)",
+              "en" : "Which", 
+			  "zh" : ""
+           },
+  "personne" : {"fr" : "Qui",
+              "en" : "Who", 
+			  "zh" : ""
+           },
+   "quantité" :{"fr" : "Quel(le)",
+               "en" : "Which", 
+			   "zh" : ""
+              } , 		
+   "taux" : {"fr" : "Quel(le)",
+               "en" : "Which", 
+			   "zh" : ""
+              }  			  
+		   
+}

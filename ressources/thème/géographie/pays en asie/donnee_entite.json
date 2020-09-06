@@ -1,0 +1,309 @@
+{"appelation" : { 
+          "fr" : ["pays", "pays asiatique(s)", "pays en asie"],
+          "en" : ["country","Asian country", "country in Asia"],
+	      "zh" : ["国家","亚洲国家"]
+    },
+ 
+  "libelle": {
+    "Q668": {
+      "fr": "Inde",
+      "zh": "印度",
+      "en": "India"
+    },
+    "Q794": {
+      "fr": "Iran",
+      "zh": "伊朗",
+      "en": "Iran"
+    },
+    "Q159": {
+      "fr": "Russie",
+      "zh": "俄罗斯",
+      "en": "Russia"
+    },
+    "Q148": {
+      "fr": "République populaire de Chine",
+      "zh": "中华人民共和国",
+      "en": "People's Republic of China"
+    },
+    "Q17": {
+      "fr": "Japon",
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "Q43": {
+      "fr": "Turquie",
+      "zh": "土耳其",
+      "en": "Turkey"
+    },
+    "Q928": {
+      "fr": "Philippines",
+      "zh": "菲律宾",
+      "en": "Philippines"
+    },
+    "Q843": {
+      "fr": "Pakistan",
+      "zh": "巴基斯坦",
+      "en": "Pakistan"
+    },
+    "Q801": {
+      "fr": "Israël",
+      "zh": "以色列",
+      "en": "Israel"
+    },
+    "Q252": {
+      "fr": "Indonésie",
+      "zh": "印度尼西亚",
+      "en": "Indonesia"
+    },
+    "Q227": {
+      "fr": "Azerbaïdjan",
+      "zh": "阿塞拜疆",
+      "en": "Azerbaijan"
+    },
+    "Q79": {
+      "fr": "Égypte",
+      "zh": "埃及",
+      "en": "Egypt"
+    },
+    "Q884": {
+      "fr": "Corée du Sud",
+      "zh": "大韩民国",
+      "en": "South Korea"
+    },
+    "Q833": {
+      "fr": "Malaisie",
+      "zh": "马来西亚",
+      "en": "Malaysia"
+    },
+    "Q869": {
+      "fr": "Thaïlande",
+      "zh": "泰国",
+      "en": "Thailand"
+    },
+    "Q881": {
+      "fr": "Viêt Nam",
+      "zh": "越南",
+      "en": "Vietnam"
+    },
+    "Q854": {
+      "fr": "Sri Lanka",
+      "zh": "斯里蘭卡",
+      "en": "Sri Lanka"
+    },
+    "Q334": {
+      "fr": "Singapour",
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "Q796": {
+      "fr": "Irak",
+      "zh": "伊拉克",
+      "en": "Iraq"
+    },
+    "Q889": {
+      "fr": "Afghanistan",
+      "zh": "阿富汗",
+      "en": "Afghanistan"
+    },
+    "Q858": {
+      "fr": "Syrie",
+      "zh": "叙利亚",
+      "en": "Syria"
+    },
+    "Q837": {
+      "fr": "Népal",
+      "zh": "尼泊尔",
+      "en": "Nepal"
+    },
+    "Q902": {
+      "fr": "Bangladesh",
+      "zh": "孟加拉国",
+      "en": "Bangladesh"
+    },
+    "Q836": {
+      "fr": "Birmanie",
+      "zh": "缅甸",
+      "en": "Myanmar"
+    },
+    "Q851": {
+      "fr": "Arabie saoudite",
+      "zh": "沙特阿拉伯",
+      "en": "Saudi Arabia"
+    },
+    "Q399": {
+      "fr": "Arménie",
+      "zh": "亞美尼亞",
+      "en": "Armenia"
+    },
+    "Q822": {
+      "fr": "Liban",
+      "zh": "黎巴嫩",
+      "en": "Lebanon"
+    },
+    "Q229": {
+      "fr": "Chypre",
+      "zh": "賽普勒斯",
+      "en": "Cyprus"
+    },
+    "Q230": {
+      "fr": "Géorgie",
+      "zh": "格鲁吉亚",
+      "en": "Georgia"
+    },
+    "Q232": {
+      "fr": "Kazakhstan",
+      "zh": "哈萨克斯坦",
+      "en": "Kazakhstan"
+    },
+    "Q423": {
+      "fr": "Corée du Nord",
+      "zh": "朝鲜民主主义人民共和国",
+      "en": "North Korea"
+    },
+    "Q878": {
+      "fr": "Émirats arabes unis",
+      "zh": "阿拉伯联合酋长国",
+      "en": "United Arab Emirates"
+    },
+    "Q810": {
+      "fr": "Jordanie",
+      "zh": "约旦",
+      "en": "Jordan"
+    },
+    "Q424": {
+      "fr": "Cambodge",
+      "zh": "柬埔寨",
+      "en": "Cambodia"
+    },
+    "Q805": {
+      "fr": "Yémen",
+      "zh": "也门",
+      "en": "Yemen"
+    },
+    "Q711": {
+      "fr": "Mongolie",
+      "zh": "蒙古国",
+      "en": "Mongolia"
+    },
+    "Q819": {
+      "fr": "Laos",
+      "zh": "老挝",
+      "en": "Laos"
+    },
+    "Q265": {
+      "fr": "Ouzbékistan",
+      "zh": "乌兹别克斯坦",
+      "en": "Uzbekistan"
+    },
+    "Q817": {
+      "fr": "Koweït",
+      "zh": "科威特",
+      "en": "Kuwait"
+    },
+    "Q813": {
+      "fr": "Kirghizistan",
+      "zh": "吉尔吉斯斯坦",
+      "en": "Kyrgyzstan"
+    },
+    "Q846": {
+      "fr": "Qatar",
+      "zh": "卡塔尔",
+      "en": "Qatar"
+    },
+    "Q863": {
+      "fr": "Tadjikistan",
+      "zh": "塔吉克斯坦",
+      "en": "Tajikistan"
+    },
+    "Q842": {
+      "fr": "Oman",
+      "zh": "阿曼",
+      "en": "Oman"
+    },
+    "Q917": {
+      "fr": "Bhoutan",
+      "zh": "不丹",
+      "en": "Bhutan"
+    },
+    "Q398": {
+      "fr": "Bahreïn",
+      "zh": "巴林",
+      "en": "Bahrain"
+    },
+    "Q874": {
+      "fr": "Turkménistan",
+      "zh": "土库曼斯坦",
+      "en": "Turkmenistan"
+    },
+    "Q921": {
+      "fr": "Brunei",
+      "zh": "汶莱",
+      "en": "Brunei"
+    },
+    "Q574": {
+      "fr": "Timor oriental",
+      "zh": "东帝汶",
+      "en": "East Timor"
+    },
+    "Q826": {
+      "fr": "Maldives",
+      "zh": "马尔代夫",
+      "en": "Maldives"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q668",
+      "Q794",
+      "Q159",
+      "Q148",
+      "Q17",
+      "Q43",
+      "Q928",
+      "Q843",
+      "Q801"
+    ],
+    "rares": [
+      "Q252",
+      "Q227",
+      "Q79",
+      "Q884",
+      "Q833",
+      "Q869",
+      "Q881",
+      "Q854",
+      "Q334",
+      "Q796",
+      "Q889",
+      "Q858",
+      "Q837",
+      "Q902",
+      "Q836",
+      "Q851",
+      "Q399",
+      "Q822",
+      "Q229",
+      "Q230",
+      "Q232",
+      "Q423",
+      "Q878",
+      "Q810",
+      "Q424",
+      "Q805",
+      "Q711",
+      "Q819",
+      "Q265",
+      "Q817",
+      "Q813",
+      "Q846",
+      "Q863",
+      "Q842",
+      "Q917",
+      "Q398",
+      "Q874",
+      "Q921",
+      "Q574",
+      "Q826"
+    ]
+  }
+}

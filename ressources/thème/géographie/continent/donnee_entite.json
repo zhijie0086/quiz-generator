@@ -1,0 +1,72 @@
+{"appelation" : { 
+          "fr" : ["continent(s)","grand(s) continent(s)","continent du monde"],
+          "en" : ["continent(s)"],
+	      "zh" : ["大洲"]
+    },
+
+
+  "libelle": {
+    "Q46": {
+      "fr": "Europe",
+      "zh": "欧洲",
+      "en": "Europe"
+    },
+    "Q49": {
+      "fr": "Amérique du Nord",
+      "zh": "北美洲",
+      "en": "North America"
+    },
+    "Q15": {
+      "fr": "Afrique",
+      "zh": "非洲",
+      "en": "Africa"
+    },
+    "Q48": {
+      "fr": "Asie",
+      "zh": "亚洲",
+      "en": "Asia"
+    },
+    "Q18": {
+      "fr": "Amérique du Sud",
+      "zh": "南美洲",
+      "en": "South America"
+    },
+    "Q51": {
+      "fr": "Antarctique",
+      "zh": "南极洲",
+      "en": "Antarctica"
+    },
+    "Q538": {
+      "fr": "Océanie",
+      "zh": "大洋洲",
+      "en": "Oceania"
+    },
+    "Q3960": {
+      "fr": "continent australien",
+      "zh": "澳大利亞洲",
+      "en": "Australia"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q46",
+      "Q49",
+      "Q15",
+      "Q48",
+	  "Q18",
+	  "Q51",
+      "Q538",
+      "Q3960"
+    ],
+    "rares": [
+	 "Q46",
+      "Q49",
+      "Q15",
+      "Q48",
+	  "Q18",
+	  "Q51",
+      "Q538",
+      "Q3960"
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{ "appelation" : { 
+          "fr" : ["ville(s) chinoise(s)", "grande(s) ville(s) chinoise(s)", "grande(s) ville(s) en Chine"],
+          "en" : ["Chinese city", "Chiniese big city","big city in China"],
+	      "zh" : ["中国大城市", "中国城市"]
+    },
+  "libelle": {
+    "Q8646": {
+      "fr": "Hong Kong",
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "Q956": {
+      "fr": "Pékin",
+      "zh": "北京市",
+      "en": "Beijing"
+    },
+    "Q8686": {
+      "fr": "Shanghai",
+      "zh": "上海市",
+      "en": "Shanghai"
+    },
+    "Q14773": {
+      "fr": "Macao",
+      "zh": "澳門",
+      "en": "Macau"
+    },
+    "Q16572": {
+      "fr": "Canton",
+      "zh": "廣州市",
+      "en": "Guangzhou"
+    },
+    "Q16666": {
+      "fr": "Nankin",
+      "zh": "南京市",
+      "en": "Nanjing"
+    },
+    "Q11736": {
+      "fr": "Tianjin",
+      "zh": "天津市",
+      "en": "Tianjin"
+    },
+    "Q11725": {
+      "fr": "Chongqing",
+      "zh": "重庆市",
+      "en": "Chongqing"
+    },
+    "Q15174": {
+      "fr": "Shenzhen",
+      "zh": "深圳市",
+      "en": "Shenzhen"
+    },
+    "Q4970": {
+      "fr": "Hangzhou",
+      "zh": "杭州市",
+      "en": "Hangzhou"
+    },
+    "Q5826": {
+      "fr": "Xi'an",
+      "zh": "西安市",
+      "en": "Xi'an"
+    },
+    "Q30002": {
+      "fr": "Chengdu",
+      "zh": "成都市",
+      "en": "Chengdu"
+    },
+    "Q11746": {
+      "fr": "Wuhan",
+      "zh": "武汉市",
+      "en": "Wuhan"
+    },
+    "Q11720": {
+      "fr": "Shenyang",
+      "zh": "瀋陽市",
+      "en": "Shenyang"
+    },
+    "Q187136": {
+      "fr": "Luoyang",
+      "zh": "洛陽市",
+      "en": "Luoyang"
+    },
+    "Q42956": {
+      "fr": "Harbin",
+      "zh": "哈尔滨市",
+      "en": "Harbin"
+    },
+    "Q170322": {
+      "fr": "Qingdao",
+      "zh": "青岛市",
+      "en": "Qingdao"
+    },
+    "Q74881": {
+      "fr": "Dalian",
+      "zh": "大连市",
+      "en": "Dalian"
+    },
+    "Q42622": {
+      "fr": "Suzhou",
+      "zh": "苏州市",
+      "en": "Suzhou"
+    },
+    "Q182852": {
+      "fr": "Kunming",
+      "zh": "昆明市",
+      "en": "Kunming"
+    },
+    "Q208471": {
+      "fr": "Kaifeng",
+      "zh": "開封市",
+      "en": "Kaifeng"
+    },
+    "Q68481": {
+      "fr": "Fuzhou",
+      "zh": "福州市",
+      "en": "Fuzhou"
+    },
+    "Q16959": {
+      "fr": "Ürümqi",
+      "zh": "乌鲁木齐",
+      "en": "Ürümqi"
+    },
+    "Q68744": {
+      "fr": "Xiamen",
+      "zh": "厦门市",
+      "en": "Xiamen"
+    },
+    "Q42780": {
+      "fr": "Ningbo",
+      "zh": "宁波市",
+      "en": "Ningbo"
+    },
+    "Q174091": {
+      "fr": "Changsha",
+      "zh": "长沙市",
+      "en": "Changsha"
+    },
+    "Q170247": {
+      "fr": "Jinan",
+      "zh": "济南市",
+      "en": "Jinan"
+    },
+    "Q92161": {
+      "fr": "Changchun",
+      "zh": "长春市",
+      "en": "Changchun"
+    },
+    "Q58401": {
+      "fr": "Shijiazhuang",
+      "zh": "石家庄市",
+      "en": "Shijiazhuang"
+    },
+    "Q72778": {
+      "fr": "Taiyuan",
+      "zh": "太原市",
+      "en": "Taiyuan"
+    },
+    "Q68695": {
+      "fr": "Quanzhou",
+      "zh": "泉州市",
+      "en": "Quanzhou"
+    },
+    "Q183584": {
+      "fr": "Lanzhou",
+      "zh": "蘭州市",
+      "en": "Lanzhou"
+    },
+    "Q30340": {
+      "fr": "Zhengzhou",
+      "zh": "郑州市",
+      "en": "Zhengzhou"
+    },
+    "Q57906": {
+      "fr": "Yangzhou",
+      "zh": "扬州市",
+      "en": "Yangzhou"
+    },
+    "Q185684": {
+      "fr": "Hefei",
+      "zh": "合肥市",
+      "en": "Hefei"
+    },
+    "Q535534": {
+      "fr": "Hohhot",
+      "zh": "呼和浩特市",
+      "en": "Hohhot"
+    },
+    "Q868527": {
+      "fr": "Tourfan",
+      "zh": "吐鲁番市",
+      "en": "Turpan"
+    },
+    "Q171943": {
+      "fr": "Nanchang",
+      "zh": "南昌市",
+      "en": "Nanchang"
+    },
+    "Q189633": {
+      "fr": "Guilin",
+      "zh": "桂林市",
+      "en": "Guilin"
+    },
+    "Q42651": {
+      "fr": "Wuxi",
+      "zh": "无锡市",
+      "en": "Wuxi"
+    },
+    "Q210493": {
+      "fr": "Yantai",
+      "zh": "烟台市",
+      "en": "Yantai"
+    },
+    "Q515388": {
+      "fr": "Yan'an",
+      "zh": "延安市",
+      "en": "Yan'an"
+    },
+    "Q179608": {
+      "fr": "Nanning",
+      "zh": "南寧市",
+      "en": "Nanning"
+    },
+    "Q1211183": {
+      "fr": "ville-préfecture de Xigazê",
+      "zh": "日喀则市",
+      "en": "Shigatse"
+    },
+    "Q59218": {
+      "fr": "Dongguan",
+      "zh": "东莞市",
+      "en": "Dongguan"
+    },
+    "Q125378": {
+      "fr": "District de Pudong",
+      "zh": "浦東新區",
+      "en": "Pudong"
+    },
+    "Q57719": {
+      "fr": "Xuzhou",
+      "zh": "徐州市",
+      "en": "Xuzhou"
+    },
+    "Q189823": {
+      "fr": "Haikou",
+      "zh": "海口市",
+      "en": "Haikou"
+    },
+    "Q42635": {
+      "fr": "Wenzhou",
+      "zh": "温州市",
+      "en": "Wenzhou"
+    },
+    "Q34412": {
+      "fr": "Foshan",
+      "zh": "佛山市",
+      "en": "Foshan"
+    },
+    "Q69060": {
+      "fr": "Xining",
+      "zh": "西宁市",
+      "en": "Xining"
+    },
+    "Q324293": {
+      "fr": "Anyang",
+      "zh": "安陽市",
+      "en": "Anyang"
+    },
+    "Q59095": {
+      "fr": "Zhuhai",
+      "zh": "珠海市",
+      "en": "Zhuhai"
+    },
+    "Q59100": {
+      "fr": "Shantou",
+      "zh": "汕头市",
+      "en": "Shantou"
+    },
+    "Q58584": {
+      "fr": "Baoding",
+      "zh": "保定市",
+      "en": "Baoding"
+    },
+    "Q42666": {
+      "fr": "Shaoxing",
+      "zh": "绍兴市",
+      "en": "Shaoxing"
+    },
+    "Q497341": {
+      "fr": "Xianyang",
+      "zh": "咸陽市",
+      "en": "Xianyang"
+    },
+    "Q192271": {
+      "fr": "Guiyang",
+      "zh": "貴陽市",
+      "en": "Guiyang"
+    },
+    "Q211243": {
+      "fr": "Yinchuan",
+      "zh": "銀川市",
+      "en": "Yinchuan"
+    },
+    "Q58570": {
+      "fr": "Handan",
+      "zh": "邯郸市",
+      "en": "Handan"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q8646",
+      "Q956",
+      "Q8686",
+      "Q14773",
+      "Q16572",
+      "Q16666",
+      "Q11736",
+      "Q11725",
+      "Q15174",
+      "Q4970",
+      "Q5826",
+      "Q30002"
+    ],
+    "rares": [
+      "Q11746",
+      "Q11720",
+      "Q187136",
+      "Q42956",
+      "Q170322",
+      "Q74881",
+      "Q42622",
+      "Q182852",
+      "Q208471",
+      "Q68481",
+      "Q16959",
+      "Q68744",
+      "Q42780",
+      "Q174091",
+      "Q170247",
+      "Q92161",
+      "Q58401",
+      "Q72778",
+      "Q68695",
+      "Q183584",
+      "Q30340",
+      "Q57906",
+      "Q185684",
+      "Q535534",
+      "Q868527",
+      "Q171943",
+      "Q189633",
+      "Q42651",
+      "Q210493",
+      "Q515388",
+      "Q179608",
+      "Q1211183",
+      "Q59218",
+      "Q125378",
+      "Q57719",
+      "Q189823",
+      "Q42635",
+      "Q34412",
+      "Q69060",
+      "Q324293",
+      "Q59095",
+      "Q59100",
+      "Q58584",
+      "Q42666",
+      "Q497341",
+      "Q192271",
+      "Q211243",
+      "Q58570"
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{"appelation" : { 
+          "fr" : ["ville(s) asiatique(s)", "grande(s) ville(s) asiatique(s)", "grande(s) ville(s) en asie"],
+          "en" : ["Asian city", "Asian big city","big city in Asia"],
+	      "zh" : ["亚洲大城市", "亚洲城市"]
+    },
+  "libelle": {
+    "Q8646": {
+      "fr": "Hong Kong",
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "Q649": {
+      "fr": "Moscou",
+      "zh": "莫斯科",
+      "en": "Moscow"
+    },
+    "Q334": {
+      "fr": "Singapour",
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "Q1490": {
+      "fr": "Tokyo",
+      "zh": "東京都",
+      "en": "Tokyo"
+    },
+    "Q956": {
+      "fr": "Pékin",
+      "zh": "北京市",
+      "en": "Beijing"
+    },
+    "Q656": {
+      "fr": "Saint-Pétersbourg",
+      "zh": "圣彼得堡",
+      "en": "Saint Petersburg"
+    },
+    "Q1156": {
+      "fr": "Bombay",
+      "zh": "孟买",
+      "en": "Mumbai"
+    },
+    "Q1218": {
+      "fr": "Jérusalem",
+      "zh": "耶路撒冷",
+      "en": "Jerusalem"
+    },
+    "Q406": {
+      "fr": "Istanbul",
+      "zh": "伊斯坦堡",
+      "en": "Istanbul"
+    },
+    "Q8684": {
+      "fr": "Séoul",
+      "zh": "首爾",
+      "en": "Seoul"
+    },
+    "Q8686": {
+      "fr": "Shanghai",
+      "zh": "上海市",
+      "en": "Shanghai"
+    },
+    "Q1348": {
+      "fr": "Calcutta",
+      "zh": "加尔各答",
+      "en": "Kolkata"
+    },
+    "Q1353": {
+      "fr": "Delhi",
+      "zh": "德里",
+      "en": "Delhi"
+    },
+    "Q1352": {
+      "fr": "Chennai",
+      "zh": "金奈",
+      "en": "Chennai"
+    },
+    "Q3616": {
+      "fr": "Téhéran",
+      "zh": "德黑兰",
+      "en": "Tehran"
+    },
+    "Q1530": {
+      "fr": "Bagdad",
+      "zh": "巴格达",
+      "en": "Baghdad"
+    },
+    "Q87": {
+      "fr": "Alexandrie",
+      "zh": "亞歷山大港",
+      "en": "Alexandria"
+    },
+    "Q1461": {
+      "fr": "Manille",
+      "zh": "马尼拉市",
+      "en": "Manila"
+    },
+    "Q987": {
+      "fr": "New Delhi",
+      "zh": "新德里",
+      "en": "New Delhi"
+    },
+    "Q3630": {
+      "fr": "Jakarta",
+      "zh": "雅加达",
+      "en": "Jakarta"
+    },
+    "Q1355": {
+      "fr": "Bangalore",
+      "zh": "班加羅爾",
+      "en": "Bengaluru"
+    },
+    "Q14773": {
+      "fr": "Macao",
+      "zh": "澳門",
+      "en": "Macau"
+    },
+    "Q1861": {
+      "fr": "Bangkok",
+      "zh": "曼谷",
+      "en": "Bangkok"
+    },
+    "Q612": {
+      "fr": "Dubaï",
+      "zh": "杜拜",
+      "en": "Dubai"
+    },
+    "Q35765": {
+      "fr": "Osaka",
+      "zh": "大阪市",
+      "en": "Ōsaka"
+    },
+    "Q3766": {
+      "fr": "Damas",
+      "zh": "大马士革",
+      "en": "Damascus"
+    },
+    "Q16572": {
+      "fr": "Canton",
+      "zh": "廣州市",
+      "en": "Guangzhou"
+    },
+    "Q8660": {
+      "fr": "Karachi",
+      "zh": "卡拉奇",
+      "en": "Karachi"
+    },
+    "Q5806": {
+      "fr": "La Mecque",
+      "zh": "麥加",
+      "en": "Saudi Arabian"
+    },
+    "Q33935": {
+      "fr": "Tel Aviv",
+      "zh": "特拉维夫",
+      "en": "Tel Aviv"
+    },
+    "Q1865": {
+      "fr": "Kuala Lumpur",
+      "zh": "吉隆坡",
+      "en": "Kuala Lumpur"
+    },
+    "Q1361": {
+      "fr": "Hyderabad",
+      "zh": "海得拉巴",
+      "en": "Hyderabad"
+    },
+    "Q1867": {
+      "fr": "Taipei",
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "Q3820": {
+      "fr": "Beyrouth",
+      "zh": "贝鲁特",
+      "en": "Beirut"
+    },
+    "Q11739": {
+      "fr": "Lahore",
+      "zh": "拉合爾",
+      "en": "Lahore"
+    },
+    "Q9248": {
+      "fr": "Bakou",
+      "zh": "巴库",
+      "en": "Baku"
+    },
+    "Q34600": {
+      "fr": "Kyoto",
+      "zh": "京都市",
+      "en": "Kyoto"
+    },
+    "Q3640": {
+      "fr": "Ankara",
+      "zh": "安卡拉",
+      "en": "Ankara"
+    },
+    "Q994": {
+      "fr": "Tbilissi",
+      "zh": "第比利斯",
+      "en": "Tbilisi"
+    },
+    "Q16666": {
+      "fr": "Nankin",
+      "zh": "南京市",
+      "en": "Nanjing"
+    },
+    "Q1858": {
+      "fr": "Hanoï",
+      "zh": "河內市",
+      "en": "Hanoi"
+    },
+    "Q1854": {
+      "fr": "Hô Chi Minh-Ville",
+      "zh": "胡志明市",
+      "en": "Ho Chi Minh City"
+    },
+    "Q1354": {
+      "fr": "Dacca",
+      "zh": "达卡市",
+      "en": "Dhaka"
+    },
+    "Q1538": {
+      "fr": "Pune",
+      "zh": "浦那",
+      "en": "Pune"
+    },
+    "Q35484": {
+      "fr": "Médine",
+      "zh": "麦地那",
+      "en": "Medina"
+    },
+    "Q11736": {
+      "fr": "Tianjin",
+      "zh": "天津市",
+      "en": "Tianjin"
+    },
+    "Q5838": {
+      "fr": "Kaboul",
+      "zh": "喀布尔",
+      "en": "Kabul"
+    },
+    "Q35381": {
+      "fr": "Colombo",
+      "zh": "科伦坡",
+      "en": "Colombo"
+    },
+    "Q11725": {
+      "fr": "Chongqing",
+      "zh": "重庆市",
+      "en": "Chongqing"
+    },
+    "Q1362": {
+      "fr": "Islamabad",
+      "zh": "伊斯兰堡",
+      "en": "Islamabad"
+    },
+    "Q16520": {
+      "fr": "Pusan",
+      "zh": "釜山",
+      "en": "Busan"
+    },
+    "Q42053": {
+      "fr": "Ispahan",
+      "zh": "伊斯法罕",
+      "en": "Isfahan"
+    },
+    "Q1953": {
+      "fr": "Erevan",
+      "zh": "葉里溫",
+      "en": "Yerevan"
+    },
+    "Q41183": {
+      "fr": "Alep",
+      "zh": "阿勒颇",
+      "en": "Aleppo"
+    },
+    "Q3861": {
+      "fr": "Doha",
+      "zh": "多哈",
+      "en": "Doha"
+    },
+    "Q38283": {
+      "fr": "Yokohama",
+      "zh": "横滨市",
+      "en": "Yokohama"
+    },
+    "Q3805": {
+      "fr": "Amman",
+      "zh": "安曼",
+      "en": "Amman"
+    },
+    "Q1519": {
+      "fr": "Abou Dabi",
+      "zh": "阿布扎比",
+      "en": "Abu Dhabi"
+    },
+    "Q35997": {
+      "fr": "Izmir",
+      "zh": "伊兹密尔",
+      "en": "İzmir"
+    },
+    "Q11751": {
+      "fr": "Nagoya",
+      "zh": "名古屋市",
+      "en": "Nagoya"
+    },
+    "Q15174": {
+      "fr": "Shenzhen",
+      "zh": "深圳市",
+      "en": "Shenzhen"
+    },
+    "Q18808": {
+      "fr": "Pyongyang",
+      "zh": "平壤",
+      "en": "Pyongyang"
+    },
+    "Q80053": {
+      "fr": "Tabriz",
+      "zh": "大不里士",
+      "en": "Tabriz"
+    },
+    "Q41621": {
+      "fr": "Haïfa",
+      "zh": "海法",
+      "en": "Haifa"
+    },
+    "Q34664": {
+      "fr": "Hiroshima",
+      "zh": "广岛市",
+      "en": "Hiroshima"
+    },
+    "Q3037": {
+      "fr": "Katmandou",
+      "zh": "加德滿都",
+      "en": "Kathmandu"
+    },
+    "Q48320": {
+      "fr": "Kōbe",
+      "zh": "神户市",
+      "en": "Kōbe"
+    },
+    "Q1070": {
+      "fr": "Ahmedabad",
+      "zh": "艾哈迈达巴德",
+      "en": "Ahmedabad"
+    },
+    "Q4970": {
+      "fr": "Hangzhou",
+      "zh": "杭州市",
+      "en": "Hangzhou"
+    },
+    "Q38234": {
+      "fr": "Nagasaki",
+      "zh": "长崎市",
+      "en": "Nagasaki"
+    },
+    "Q79980": {
+      "fr": "Bénarès",
+      "zh": "瓦拉納西",
+      "en": "Varanasi"
+    },
+    "Q5826": {
+      "fr": "Xi'an",
+      "zh": "西安市",
+      "en": "Xi'an"
+    },
+    "Q167715": {
+      "fr": "Thiruvananthapuram",
+      "zh": "锡鲁万纳塔普拉姆",
+      "en": "Thiruvananthapuram"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q8646",
+      "Q649",
+      "Q334",
+      "Q1490",
+      "Q956",
+      "Q656",
+      "Q1156",
+      "Q1218",
+      "Q406",
+      "Q8684",
+      "Q8686",
+      "Q1348",
+      "Q1353",
+      "Q1352",
+      "Q3616",
+      "Q1530"
+    ],
+    "rares": [
+      "Q87",
+      "Q1461",
+      "Q987",
+      "Q3630",
+      "Q1355",
+      "Q14773",
+      "Q1861",
+      "Q612",
+      "Q35765",
+      "Q3766",
+      "Q16572",
+      "Q8660",
+      "Q5806",
+      "Q5806",
+      "Q5806",
+      "Q5806",
+      "Q5806",
+      "Q33935",
+      "Q1865",
+      "Q1361",
+      "Q1867",
+      "Q3820",
+      "Q11739",
+      "Q9248",
+      "Q34600",
+      "Q3640",
+      "Q994",
+      "Q16666",
+      "Q1858",
+      "Q1854",
+      "Q1354",
+      "Q1538",
+      "Q35484",
+      "Q35484",
+      "Q35484",
+      "Q35484",
+      "Q11736",
+      "Q5838",
+      "Q35381",
+      "Q11725",
+      "Q1362",
+      "Q16520",
+      "Q42053",
+      "Q1953",
+      "Q41183",
+      "Q3861",
+      "Q38283",
+      "Q3805",
+      "Q1519",
+      "Q35997",
+      "Q11751",
+      "Q15174",
+      "Q18808",
+      "Q80053",
+      "Q41621",
+      "Q34664",
+      "Q3037",
+      "Q48320",
+      "Q1070",
+      "Q4970",
+      "Q38234",
+      "Q79980",
+      "Q5826",
+      "Q167715"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{ "localisation" : { "fr" : "Où" ,
+                      "en" : "where",
+                      "zh" : "哪里"
+                    },
+  "temps" : { "fr" : "Quand",
+              "en" : "In which date",
+              "zh" : "什么时候"
+			},
+     
+  "image" : {"fr" : "Dans quelle photo",
+             "en" : "In which photo",
+             "zh" : "哪张图片"
+            },
+  "superficie" : {"fr" : "Sur combien de superficie",
+                  "en" : "Over how many square metres", 
+				  "zh" : "多大"
+                  }
+ 
+}

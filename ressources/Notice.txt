@@ -1,0 +1,24 @@
+Fr :
+  --Afin d'exécuter le code, il faudrait le mettre dans un même dossier avec les dossiers "diverse" et "thème".
+  --Une fois que toutes les cellules sont exécutées, il faudrait exécuter les deux dernières cellules 
+    pour générer une nouvelle question.
+  --Nous continuons d'ajouter des ressources et d'élargir les thèmes de question.
+  --Si vous avez des remarques ou des commentaires, vous pouvez nous contacter par e-mail à l'adresse suivante :
+    zhijie.zhou0086@gmail.com .
+
+En :
+  --In order to run the code, you are invited to put it in the same folder with the "diverse" and "thème" folders.
+  --Once all the cells are done, you will need to run the last two cells
+    to generate a new question.
+  --We continue to add resources and expand question themes.
+  --If you have any remarks or comments, you can contact us by e-mail at the following address:
+    zhijie.zhou0086@gmail.com .
+
+zh : 
+  --为了代码能正常运行，请将其与 “ diverse”和“ thème”文件夹放在同一文件夹中。
+  --如果您用notebook运行代码, 在所有代码块运行完成后，您需要重新运行最后两个代码块来生成一个新问题。
+  --我们将继续增添资源并且扩大问题的主题。
+  --如果您有任何评论或意见，可以通过以下地址的电子邮件与我们联系：
+    zhijie.zhou0086@gmail.com。
+
+

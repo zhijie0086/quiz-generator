@@ -1,0 +1,186 @@
+{
+   "P17": {"alias" :{ "fr": [ "pays traversé"],
+                     "en": [ "crossed country"],
+                     "zh": ["流经国家"]},
+		  "type" : "normal",
+          "verbal" :{"fr": [ "traverse"],
+                             "en": ["crosses over" ],
+                             "zh": ["穿越"]}
+		 },	   
+		   
+  "P18": {
+          "alias" :{"fr": ["photo", "portrait", "image"],
+                    "en": [" illustration"," portrait", " photo"," picture"],
+                    "zh": ["图片","照片"]},
+		  "type" : "image",
+		  "verbal" : {"fr":["est montré "],
+                      "en":["is shown in "],
+                      "zh":["显示在"]}
+       },
+	"P30": {"alias" :{  "fr": [
+                          "continent"],
+                       "en": [
+                        "continent"],
+                         "zh": ["洲",
+                              "大洲"
+                                  ]
+                      },
+		  "type" : "localisation",
+          "verbal" :{"fr": [ "se situe", "se localise"],
+                             "en": ["is located", "is positioned" ],
+                             "zh": ["属于","位于"]}
+		 },	     
+
+  "P205": {
+   "alias" : { "fr": [
+      "pays souverain sur le bassin versant"
+    ],
+    "en": [
+      
+      "basin country"
+    ],
+    "zh": [
+      "集水区国家"
+    ]},
+	"type" : "normal",
+	"verbal" : ""
+  },
+  "P242": {
+    "alias" : { "fr": [
+              
+              "localisation",
+              "carte de localisation"
+                ],
+            "en": [
+      
+              "locator map",
+              "locator map image"
+                ],
+            "zh": [
+      "位置图图像",
+      "定位图图片"
+    ]},
+	"type" :"image",
+	"verbal" : ""
+  },
+  "P403": {
+     "alias" :  {"fr": [
+      "embouchure"
+    ],
+    "en": [
+      "outflow",
+     
+      "river mouth",
+      
+     
+      " watercourse outflow",
+      "mouth of the watercourse"
+    ],
+    "zh": [
+      "注入水體",
+      "河流出口"
+    ]},
+	"type" : "normal",
+	"verbal" : {"fr": [ "se jette dans", "est affluent de"],
+                "en": ["flows into" ],
+                "zh": ["注入", "汇入"]}
+	
+	
+  },
+  "P469": {
+    "alias" : {"fr": [
+      "lac de barrage"
+    ],
+    "en": [
+      "reservoir on river",
+      "lakes on river"
+    ],
+    "zh": [
+      "流域上的湖"
+    ]},
+	"type" : "normal",
+	"verbal" :""
+  },
+  "P885": {
+   "alias" : { "fr": [
+      "source"
+    ],
+    "en": [
+      "water source",
+      "river source",
+      "river head",
+      
+      "stream source",
+      "origin"
+    ],
+    "zh": [
+      "水源",
+      "河源",
+      "源头"
+    ]},
+	"type" : "normal",
+	"verbal" :""
+  },
+  "P974": {
+   "alias" :{ "fr": [
+      "affluent"
+    ],
+    "en": [
+      "affluent"
+    ],
+    "zh": [
+      "支流"
+    ]},
+	"type" : "normal",
+	"verbal" :""
+  },
+ 
+  "P2043": {
+   "alias" : {"fr": [
+      
+      "longueur"
+    ],
+    "en": [
+      "size",
+      "distance",
+      "length"
+    ],
+    "zh": [
+      "长度"
+    ]},
+	"type" : "longueur",
+	"verbal" :{"fr": [ "est long de", "a une longeur de"],
+                "en": ["has length of" ],
+                "zh": ["的长度是"]}
+	
+  },
+  "P2044": {  "alias" : {"fr": [ "altitude", "élévation au-dessus du niveau des mers", "altitude"],
+                              "en": [ "altitude", "elevation above mean sea level", "elevation above sea level"],
+                              "zh": [ "海拔"]
+                             },
+                "type" : "hauteur" ,
+                "verbal" : ""				
+			   },
+  "P2053": {
+    "alias" : {"fr": [
+     
+      "étendue du bassin versant",
+      "surface du bassin versant",
+      "taille du bassin versant",
+      "superficie du bassin versant"
+    ],
+    "en": [
+      
+      "size of basin area",
+      "size of watershed",
+      "watershed area"
+    ],
+    "zh": [
+      "集水区面积"
+    ]},
+	"type" :"superficie",
+	"verbal" : ""
+  },
+   "populaires" : ["P18","P17","P30","P242"],
+     "rares" : ["P205","P403","P469","P885","P974","P2043","P2053"]	
+}

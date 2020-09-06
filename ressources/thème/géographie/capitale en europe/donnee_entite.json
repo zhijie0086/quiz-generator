@@ -1,0 +1,312 @@
+{
+    "appelation" : { 
+          "fr" : ["capitale(s)", " capitale(s) en Europe ", "capitale(s) européenne(s)", "ville(s)"],
+          "en" : ["capital", "capital city", "european capital", "city"],
+	      "zh" : ["首都", "首都城市","欧洲国家首都", "城市"]
+    },
+ 
+
+
+  "libelle": {
+    "Q84": {
+      "fr": "Londres",
+      "zh": "倫敦",
+      "en": "London"
+    },
+    "Q90": {
+      "fr": "Paris",
+      "zh": "巴黎",
+      "en": "Paris"
+    },
+    "Q220": {
+      "fr": "Rome",
+      "zh": "罗马",
+      "en": "Rome"
+    },
+    "Q64": {
+      "fr": "Berlin",
+      "zh": "柏林",
+      "en": "Berlin"
+    },
+    "Q649": {
+      "fr": "Moscou",
+      "zh": "莫斯科",
+      "en": "Moscow"
+    },
+    "Q1741": {
+      "fr": "Vienne",
+      "zh": "維也納",
+      "en": "Vienna"
+    },
+    "Q1524": {
+      "fr": "Athènes",
+      "zh": "雅典",
+      "en": "Athens"
+    },
+    "Q270": {
+      "fr": "Varsovie",
+      "zh": "华沙",
+      "en": "Warsaw"
+    },
+    "Q1085": {
+      "fr": "Prague",
+      "zh": "布拉格",
+      "en": "Prague"
+    },
+    "Q1761": {
+      "fr": "Dublin",
+      "zh": "都柏林",
+      "en": "Dublin"
+    },
+    "Q1754": {
+      "fr": "Stockholm",
+      "zh": "斯德哥尔摩",
+      "en": "Stockholm"
+    },
+    "Q2807": {
+      "fr": "Madrid",
+      "zh": "马德里",
+      "en": "Madrid"
+    },
+    "Q727": {
+      "fr": "Amsterdam",
+      "zh": "阿姆斯特丹",
+      "en": "Amsterdam"
+    },
+    "Q1748": {
+      "fr": "Copenhague",
+      "zh": "哥本哈根",
+      "en": "Copenhagen"
+    },
+    "Q1781": {
+      "fr": "Budapest",
+      "zh": "布达佩斯",
+      "en": "Budapest"
+    },
+    "Q585": {
+      "fr": "Oslo",
+      "zh": "奥斯陆",
+      "en": "Oslo"
+    },
+    "Q597": {
+      "fr": "Lisbonne",
+      "zh": "里斯本",
+      "en": "Lisbon"
+    },
+    "Q1899": {
+      "fr": "Kiev",
+      "zh": "基輔",
+      "en": "Kiev"
+    },
+    "Q1757": {
+      "fr": "Helsinki",
+      "zh": "赫尔辛基",
+      "en": "Helsinki"
+    },
+    "Q3711": {
+      "fr": "Belgrade",
+      "zh": "贝尔格莱德",
+      "en": "Belgrade"
+    },
+    "Q19660": {
+      "fr": "Bucarest",
+      "zh": "布加勒斯特",
+      "en": "Bucharest"
+    },
+    "Q1435": {
+      "fr": "Zagreb",
+      "zh": "萨格勒布",
+      "en": "Zagreb"
+    },
+    "Q472": {
+      "fr": "Sofia",
+      "zh": "索菲亞",
+      "en": "Sofia"
+    },
+    "Q9248": {
+      "fr": "Bakou",
+      "zh": "巴库",
+      "en": "Baku"
+    },
+    "Q216": {
+      "fr": "Vilnius",
+      "zh": "维尔纽斯",
+      "en": "Vilnius"
+    },
+    "Q1773": {
+      "fr": "Riga",
+      "zh": "里加",
+      "en": "Riga"
+    },
+    "Q3640": {
+      "fr": "Ankara",
+      "zh": "安卡拉",
+      "en": "Ankara"
+    },
+    "Q1770": {
+      "fr": "Tallinn",
+      "zh": "塔林",
+      "en": "Tallinn"
+    },
+    "Q994": {
+      "fr": "Tbilissi",
+      "zh": "第比利斯",
+      "en": "Tbilisi"
+    },
+    "Q1780": {
+      "fr": "Bratislava",
+      "zh": "布拉迪斯拉发",
+      "en": "Bratislava"
+    },
+    "Q70": {
+      "fr": "Berne",
+      "zh": "伯尔尼",
+      "en": "Bern"
+    },
+    "Q437": {
+      "fr": "Ljubljana",
+      "zh": "卢布尔雅那",
+      "en": "Ljubljana"
+    },
+    "Q11194": {
+      "fr": "Sarajevo",
+      "zh": "塞拉耶佛",
+      "en": "Sarajevo"
+    },
+    "Q2280": {
+      "fr": "Minsk",
+      "zh": "明斯克",
+      "en": "Minsk"
+    },
+    "Q1764": {
+      "fr": "Reykjavik",
+      "zh": "雷克雅未克",
+      "en": "Reykjavík"
+    },
+    "Q1953": {
+      "fr": "Erevan",
+      "zh": "葉里溫",
+      "en": "Yerevan"
+    },
+    "Q21197": {
+      "fr": "Chișinău",
+      "zh": "基希讷乌",
+      "en": "Chișinău"
+    },
+    "Q384": {
+      "fr": "Skopje",
+      "zh": "斯科普里",
+      "en": "Skopje"
+    },
+    "Q19689": {
+      "fr": "Tirana",
+      "zh": "地拉那",
+      "en": "Tirana"
+    },
+    "Q1842": {
+      "fr": "Luxembourg",
+      "zh": "卢森堡市",
+      "en": "Luxembourg"
+    },
+    "Q3856": {
+      "fr": "Nicosie",
+      "zh": "尼科西亚",
+      "en": "Nicosia"
+    },
+    "Q1520": {
+      "fr": "Noursoultan",
+      "zh": "努尔-苏丹",
+      "en": "Nur-Sultan"
+    },
+    "Q23564": {
+      "fr": "Podgorica",
+      "zh": "波德戈里察",
+      "en": "Podgorica"
+    },
+    "Q23800": {
+      "fr": "La Valette",
+      "zh": "瓦莱塔",
+      "en": "Valletta"
+    },
+    "Q1863": {
+      "fr": "Andorre-la-Vieille",
+      "zh": "安道尔城",
+      "en": "Andorra la Vella"
+    },
+    "Q239": {
+      "fr": "Bruxelles",
+      "zh": "布鲁塞尔市",
+      "en": "Brussels"
+    },
+    "Q1844": {
+      "fr": "Vaduz",
+      "zh": "瓦都茲",
+      "en": "Vaduz"
+    },
+    "Q1848": {
+      "fr": "Saint-Marin",
+      "zh": "聖馬力諾",
+      "en": "San Marino"
+    },
+    "Q55115": {
+      "fr": "Monaco-Ville",
+      "zh": "摩纳哥城",
+      "en": "City of Monaco"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q84",
+      "Q90",
+      "Q220",
+      "Q64",
+      "Q649",
+      "Q1741",
+      "Q1524",
+      "Q270",
+      "Q1085"
+    ],
+    "rares": [
+      "Q1761",
+      "Q1754",
+      "Q2807",
+      "Q727",
+      "Q1748",
+      "Q1781",
+      "Q585",
+      "Q597",
+      "Q1899",
+      "Q1757",
+      "Q3711",
+      "Q19660",
+      "Q1435",
+      "Q472",
+      "Q9248",
+      "Q216",
+      "Q1773",
+      "Q3640",
+      "Q1770",
+      "Q994",
+      "Q1780",
+      "Q70",
+      "Q437",
+      "Q11194",
+      "Q2280",
+      "Q1764",
+      "Q1953",
+      "Q21197",
+      "Q384",
+      "Q19689",
+      "Q1842",
+      "Q3856",
+      "Q1520",
+      "Q23564",
+      "Q23800",
+      "Q1863",
+      "Q239",
+      "Q1844",
+      "Q1848",
+      "Q55115"
+    ]
+  }
+}

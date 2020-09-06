@@ -1,0 +1,169 @@
+{
+   "P18": {
+          "alias" :{"fr": ["photo", "portrait", "image"],
+                    "en": [" illustration"," portrait", " photo"," picture"],
+                    "zh": ["图片","照片"]},
+		  "type" : "image",
+		  "verbal" : {"fr":["est montré "],
+                      "en":["is shown in "],
+                      "zh":["显示在"]}
+       },
+  "P610": {
+   "alias" :{ "fr": [
+      "point le plus élevé",
+      "point le plus haut",
+      "point culminant"
+    ],
+    "en": [
+      "summit",
+      "pinnacle",
+      "highest peak",
+      "zenith",
+      "extreme point highest",
+      "highest point"
+    ],
+    "zh": [
+      
+      "最高点"
+    ]},
+	"type":"normal",
+	"verbal":""
+  },
+  "P706": {
+          "alias" : {    "fr": [
+     
+               "zone géographique",
+             "emplacement géographique",
+      "localisation géographique",
+	  "hemishpère",
+      "localisation géographique"
+    ],
+    "en": [
+      "geographical region",
+	  "hemisphere"
+      
+    ],
+    "zh": [
+      "半球",
+      "地理位置"
+    ]},
+	"type" :"localisation",
+	"verbal" : {"fr":["se situe","se trouve"],
+                      "en":["is located","is positioned"],
+                      "zh":["位于"]}
+  },
+ 
+   "P1082": { "alias" : {"fr": [ "nombre d'habitants", "population"],
+                          "en": [ "human population", "population"],
+                          "zh": [ "人口", "人口数量"]
+						  },
+				"type" : "quantité",
+			    "verbal" : ""
+  
+    },   
+  "P47": {"alias":  { "fr": [ "continent adjacent"],
+                     "en": [ "border continent", "adjacent contient"],
+                     "zh": ["相邻大陆"]},
+		  "type" : "normal",
+		  "verbal" :{"fr": ["est  adjacent à"],
+		              "en": ["is adjacent to", " is bordered by"," is next to","is sharing border with"],
+                      "zh": ["接壤于"]
+		             }          
+         },
+  
+  "P242": {
+    "alias" : { "fr": [
+              
+              "localisation",
+              "carte de localisation"
+                ],
+            "en": [
+      
+              "locator map",
+              "locator map image"
+                ],
+            "zh": [
+      "位置图图像",
+      "定位图图片",
+      "定位圖圖片"
+    ]},
+	"type" :"image",
+	"verbal" : ""
+  },
+ "P1549": {"alias" : {  "fr": [
+                           "nom d'habitants",
+                            "gentilé"
+                      ],
+                "en": [
+                     "gentilic"
+              
+                      ],
+                "zh": [
+                    "居民称谓"
+                       ]
+					},
+			"type" : "normal",
+			"verbal":""
+  },  
+  "P2046":{"alias" : {"fr": ["étendue","superficie"],
+                         "en": ["size", "surface","surface area"],
+                         "zh": ["面积"]
+						},
+			  "type" : "superficie",
+              "verbal" :{"fr": [ " s'étend " ],
+                         "en": [ " extends" ],
+                         "zh": [ " 的面积是 " ]
+                        }
+             },
+  "P2573": {
+        "alias" : { "fr": [
+      "nombre d'enfants non scolarisés"
+                 ],
+        "en": [
+      "number of out of school children",
+      "number of out-of-school children"
+       ],
+    "zh": [
+      "失学儿童数"
+    ]},
+	"type" :"quantité",
+	"verbal":""
+  },
+  
+  "P5167": {
+   "alias" : { "fr": [
+     
+      "taux de motorisation",
+      "véhicules par millier d'habitants"
+    ],
+    "en": [
+      "motorization rate",
+      "vehicles per thousand people"
+    ],
+    "zh": [
+	  "人口汽车占有率",
+      "每一千人拥有汽车的数量"
+    ]},
+	"type" :"quantité",
+	"verbal":""
+  },
+   "P527" : {
+   "alias" : { "fr": [
+     
+      "composant"
+    ],
+    "en": [
+
+      "component"
+    ],
+    "zh": [
+	  "组成部分"
+    ]},
+	"type" :"normal",
+	"verbal" : {"fr":["contient","se compose de", "inclut"],
+                      "en":["consists of","includes","is composed of"],
+                      "zh":["包含","包括"]}
+	},
+   "populaires" : ["P18","P706","P47","P242","P527","P1549"],
+     "rares" : ["P610","P1082","P2046","P2573","P527"]	 
+}

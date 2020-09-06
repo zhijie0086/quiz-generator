@@ -1,0 +1,62 @@
+{
+  "01": {
+    "fr": "janvier",
+    "en": "January",
+    "zh": "一月"
+  },
+  "02": {
+    "fr": "fevrier",
+    "en": " February  ",
+    "zh": "二月"
+  },
+  "03": {
+    "fr": "mars",
+    "en": "March",
+    "zh": "三月"
+  },
+  "04": {
+    "fr": "avril",
+    "en": " April",
+    "zh": "四月"
+  },
+  "05": {
+    "fr": "mai",
+    "en": "May",
+    "zh": "五月"
+  },
+  "06": {
+    "fr": "juin",
+    "en": "June",
+    "zh": "六月"
+  },
+  "07": {
+    "fr": "juillet",
+    "en": "July",
+    "zh": "七月"
+  },
+  "08": {
+    "fr": "août",
+    "en": "August ",
+    "zh": "八月"
+  },
+  "09": {
+    "fr": "septembre",
+    "en": "September",
+    "zh": "九月"
+  },
+  "10": {
+    "fr": "octobre",
+    "en": " October",
+    "zh": "十月"
+  },
+  "11": {
+    "fr": "novembre",
+    "en": "November",
+    "zh": "十一月"
+  },
+  "12": {
+    "fr": "décembre",
+    "en": " December",
+    "zh": "十二月"
+  }
+}

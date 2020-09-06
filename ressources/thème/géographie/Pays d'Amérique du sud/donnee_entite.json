@@ -1,0 +1,92 @@
+{"appelation" : { 
+          "fr" : ["pays", "pays d'Amérique du sud"],
+          "en" : ["country","South American country", "contry in South America"],
+	      "zh" : ["国家","南美洲国家"]
+    },
+  "libelle": {
+    "Q155": {
+      "fr": "Brésil",
+      "zh": "巴西",
+      "en": "Brazil"
+    },
+    "Q414": {
+      "fr": "Argentine",
+      "zh": "阿根廷",
+      "en": "Argentina"
+    },
+    "Q419": {
+      "fr": "Pérou",
+      "zh": "秘鲁",
+      "en": "Peru"
+    },
+    "Q739": {
+      "fr": "Colombie",
+      "zh": "哥伦比亚",
+      "en": "Colombia"
+    },
+    "Q298": {
+      "fr": "Chili",
+      "zh": "智利",
+      "en": "Chile"
+    },
+    "Q717": {
+      "fr": "Venezuela",
+      "zh": "委內瑞拉",
+      "en": "Venezuela"
+    },
+    "Q750": {
+      "fr": "Bolivie",
+      "zh": "玻利維亞",
+      "en": "Bolivia"
+    },
+    "Q736": {
+      "fr": "Équateur",
+      "zh": "厄瓜多尔",
+      "en": "Ecuador"
+    },
+    "Q804": {
+      "fr": "Panama",
+      "zh": "巴拿马",
+      "en": "Panama"
+    },
+    "Q77": {
+      "fr": "Uruguay",
+      "zh": "乌拉圭",
+      "en": "Uruguay"
+    },
+    "Q733": {
+      "fr": "Paraguay",
+      "zh": "巴拉圭",
+      "en": "Paraguay"
+    },
+    "Q734": {
+      "fr": "Guyana",
+      "zh": "圭亚那",
+      "en": "Guyana"
+    },
+    "Q730": {
+      "fr": "Suriname",
+      "zh": "蘇利南",
+      "en": "Suriname"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q155",
+      "Q414",
+      "Q419",
+      "Q739",
+      "Q298"
+    ],
+    "rares": [
+      "Q717",
+      "Q750",
+      "Q736",
+      "Q804",
+      "Q77",
+      "Q733",
+      "Q734",
+      "Q730"
+    ]
+  }
+}

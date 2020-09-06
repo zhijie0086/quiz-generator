@@ -1,0 +1,279 @@
+{
+  
+  
+  "P35": {
+           "alias" : {"fr": ["président", "chef de l'État", "chef d'État"],
+                     "en": [ "leader","president","governor","chief of state","head of state"],
+                     "zh": [ "国家元首"]
+					 },
+		   "type" : "personne",
+           "verbal": ""
+		   },
+ 
+  "P36": {
+          "alias" :{ "fr": ["capitale"],
+                     "en": ["capital"],
+                      "zh": ["首都"]
+				 },
+		  "type" : "localisation",
+          "verbal" : ""		  
+         },
+ 
+
+  "P41": {
+     "alias"  :{ "fr": [
+ 
+      " drapeau (image)",
+      "image du drapeau"
+    ],
+    "en": [
+      "image flag",
+      "image of flag",
+      "flag image"
+    ],
+    "zh": [
+      "旗幟圖像"
+    ]},
+	"type" : "image",
+	"verbal" :""
+  },
+   "P47": {"alias":  { "fr": [ "pays frontière"],
+                     "en": [ "border countries", "border country"],
+                     "zh": ["相邻国家","邻国"]},
+		  "type" : "normal",
+		  "verbal" :{"fr": ["est  adjacent à"],
+		              "en": ["is adjacent to", " is bordered by"," is next to","is sharing border with"],
+                      "zh": ["接壤于"]
+		             }          
+         },
+
+ 
+  "P85": {
+    "alias":{"fr": [
+      "hymne national",
+      "chanson officielle",
+      "hymne"
+    ],
+    "en": [
+      "national anthem",
+      "official song",
+      "anthem"
+    ],
+    "zh": [
+      "国歌"
+      ]
+  },
+  "type":"normal",
+  "verbal" : ""
+ },  
+
+  
+ 
+  
+  
+  
+ "P37": {
+   "alias" :{ "fr": [
+      "langue nationale",
+      "langue officielle"
+    ],
+    "en": [
+      "speaking",
+      " language official",
+      " language spoken",
+      " spoken in",
+      "official language"
+    ],
+    "zh": [
+      "官方语言"
+    ]},
+	"type" :"normal",
+	"verbal" : ""
+  },
+  
+ 
+ 
+  "P463": {
+    "alias" : { "fr": [
+                   "organisation internationle",
+				   "organisations internationles",
+				   "organisations participées"
+              ],
+    "en": [
+      "membership",
+	  "organisation joined"
+     
+    ],
+    "zh": [
+      "参与的组织",
+	  "参与的国际组织"
+    ]},
+	"type" :"normal",
+	"verbal": {
+	      "fr" : ["est membre de", "fait partie de","est participant de"],
+		  "en" : ["is member of", "participants in","joins in"],
+		  "zh" : ["属于", "参与"]
+	
+	
+	}
+  },
+  "P474": {
+   "alias" : { "fr": [
+      "indicatif téléphonique national"
+    ],
+    "en": [
+      "telephone code",
+     
+      "calling code",
+      "country dialing code",
+      "dialing code",
+      "country calling code"
+    ],
+    "zh": [
+      "国际电话区号", "区号"
+    ]},
+	"type" :"normal",
+	"verbal":""
+  },
+  
+ 
+  "P530": {
+      "alias" : {   "fr": [
+               "relation diplomatique"
+                ],
+    "en": [
+   
+      " ambassadorial relations",
+      "diplomatic relation",
+      "diplomatic relations",
+     
+      "political relation",
+      "political relations"
+  
+    ],
+    "zh": [
+      "邦交国"
+    ]},
+	"type":"normal",
+	"verbal":""
+  },
+
+  "P610": {
+   "alias" :{ "fr": [
+      "point le plus élevé",
+      "point le plus haut",
+      "point culminant"
+    ],
+    "en": [
+      "summit",
+      "pinnacle",
+      "highest peak",
+      "zenith",
+      "extreme point highest",
+      "highest point"
+    ],
+    "zh": [
+      
+      "最高点"
+    ]},
+	"type":"normal",
+	"verbal":""
+  },
+  
+ "P38": {
+    "alias" : {"fr": [
+      "devise",
+      "monnaie"
+    ],
+    "en": [
+      "base currency",
+      " used money",
+      "currency"
+    ],
+    "zh": [
+      "货币"
+    ]
+    },
+	"type" : "normal",
+	"verbal" : ""
+  
+  
+  
+  
+  },
+
+
+
+   "P1082": { "alias" : {"fr": [ "nombre d'habitants", "population"],
+                          "en": [ "human population", "population"],
+                          "zh": [ "人口", "人口数量"]
+						  },
+				"type" : "quantité",
+			    "verbal" : ""
+  
+    }, 
+ 
+
+  "P1198": {
+         "alias": {"fr": [
+                  "taux de chômage"
+            ]     ,
+    "en": [
+      "unemployment rate"
+    ],
+    "zh": [
+      "失业率"
+    ]},
+	"type" : "taux",
+    "verbal" : ""
+  },
+
+ 
+  
+ 
+  
+  
+  
+  		  
+     "P2046":{"alias" : {"fr": ["étendue","superficie"],
+                         "en": ["size", "surface","surface area"],
+                         "zh": ["面积"]
+						},
+			  "type" : "superficie",
+              "verbal" :{"fr": [ " s'étend " ],
+                         "en": [ " extends" ],
+                         "zh": [ " 的面积是 " ]
+                        }
+
+              },
+ 
+   "P2250":  {
+           "alias" :{    "fr": [
+                  "espérance de vie"
+                  ],
+              "en": [
+            "life span",
+                "life expectancy"
+                ],
+              "zh": [
+                "预期寿命"
+               ]},
+			 "type" :"quantité",
+			 "verbal" :""
+  },
+
+ 
+
+
+  
+
+
+     "populaires" : ["P36","P41","P85"],
+     "rares" : ["P35","P47","P2250","P1198","P1082","P38","P2046","P610","P530","P37","P463","P474"]	 
+  
+ 
+ 
+  
+
+
+}

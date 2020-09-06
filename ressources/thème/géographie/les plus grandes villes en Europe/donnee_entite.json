@@ -1,0 +1,374 @@
+{"appelation" : { 
+          "fr" : ["ville(s) européenne(s)", "grande(s) ville(s) européenne(s)", "grande(s) ville(s) en europe"],
+          "en" : ["European city", "European big city","big city in Europe"],
+	      "zh" : ["欧洲大城市", "欧洲城市"]
+    },
+  "libelle": {
+    "Q84": {
+      "fr": "Londres",
+      "zh": "倫敦",
+      "en": "London"
+    },
+    "Q90": {
+      "fr": "Paris",
+      "zh": "巴黎",
+      "en": "Paris"
+    },
+    "Q649": {
+      "fr": "Moscou",
+      "zh": "莫斯科",
+      "en": "Moscow"
+    },
+    "Q1524": {
+      "fr": "Athènes",
+      "zh": "雅典",
+      "en": "Athens"
+    },
+    "Q656": {
+      "fr": "Saint-Pétersbourg",
+      "zh": "圣彼得堡",
+      "en": "Saint Petersburg"
+    },
+    "Q270": {
+      "fr": "Varsovie",
+      "zh": "华沙",
+      "en": "Warsaw"
+    },
+    "Q1761": {
+      "fr": "Dublin",
+      "zh": "都柏林",
+      "en": "Dublin"
+    },
+    "Q2807": {
+      "fr": "Madrid",
+      "zh": "马德里",
+      "en": "Madrid"
+    },
+    "Q240": {
+      "fr": "Région de Bruxelles-Capitale",
+      "zh": "布鲁塞尔-首都大区",
+      "en": "Brussels-Capital Region"
+    },
+    "Q406": {
+      "fr": "Istanbul",
+      "zh": "伊斯坦堡",
+      "en": "Istanbul"
+    },
+    "Q1781": {
+      "fr": "Budapest",
+      "zh": "布达佩斯",
+      "en": "Budapest"
+    },
+    "Q2044": {
+      "fr": "Florence",
+      "zh": "佛罗伦萨",
+      "en": "Florence"
+    },
+    "Q71": {
+      "fr": "Genève",
+      "zh": "日內瓦",
+      "en": "Geneva"
+    },
+    "Q1794": {
+      "fr": "Francfort-sur-le-Main",
+      "zh": "美茵河畔法蘭克福",
+      "en": "Frankfurt am Main"
+    },
+    "Q597": {
+      "fr": "Lisbonne",
+      "zh": "里斯本",
+      "en": "Lisbon"
+    },
+    "Q1757": {
+      "fr": "Helsinki",
+      "zh": "赫尔辛基",
+      "en": "Helsinki"
+    },
+    "Q31487": {
+      "fr": "Cracovie",
+      "zh": "克拉科夫",
+      "en": "Kraków"
+    },
+    "Q72": {
+      "fr": "Zurich",
+      "zh": "苏黎世",
+      "en": "Zürich"
+    },
+    "Q268": {
+      "fr": "Poznań",
+      "zh": "波茲南",
+      "en": "Poznań"
+    },
+    "Q36600": {
+      "fr": "La Haye",
+      "zh": "海牙",
+      "en": "The Hague"
+    },
+    "Q19660": {
+      "fr": "Bucarest",
+      "zh": "布加勒斯特",
+      "en": "Bucharest"
+    },
+    "Q456": {
+      "fr": "Lyon",
+      "zh": "里昂",
+      "en": "Lyon"
+    },
+    "Q2079": {
+      "fr": "Leipzig",
+      "zh": "莱比锡",
+      "en": "Leipzig"
+    },
+    "Q472": {
+      "fr": "Sofia",
+      "zh": "索菲亞",
+      "en": "Sofia"
+    },
+    "Q216": {
+      "fr": "Vilnius",
+      "zh": "维尔纽斯",
+      "en": "Vilnius"
+    },
+    "Q1773": {
+      "fr": "Riga",
+      "zh": "里加",
+      "en": "Riga"
+    },
+    "Q7880": {
+      "fr": "Toulouse",
+      "zh": "圖盧茲",
+      "en": "Toulouse"
+    },
+    "Q393": {
+      "fr": "Szczecin",
+      "zh": "什切青",
+      "en": "Szczecin"
+    },
+    "Q1770": {
+      "fr": "Tallinn",
+      "zh": "塔林",
+      "en": "Tallinn"
+    },
+    "Q994": {
+      "fr": "Tbilissi",
+      "zh": "第比利斯",
+      "en": "Tbilisi"
+    },
+    "Q761": {
+      "fr": "Białystok",
+      "zh": "比亚韦斯托克",
+      "en": "Białystok"
+    },
+    "Q70": {
+      "fr": "Berne",
+      "zh": "伯尔尼",
+      "en": "Bern"
+    },
+    "Q586": {
+      "fr": "Bonn",
+      "zh": "波恩",
+      "en": "Bonn"
+    },
+    "Q79848": {
+      "fr": "Southampton",
+      "zh": "南安普敦",
+      "en": "Southampton"
+    },
+    "Q72259": {
+      "fr": "Portsmouth",
+      "zh": "朴次茅斯",
+      "en": "Portsmouth"
+    },
+    "Q1764": {
+      "fr": "Reykjavik",
+      "zh": "雷克雅未克",
+      "en": "Reykjavík"
+    },
+    "Q102317": {
+      "fr": "Kielce",
+      "zh": "凯尔采",
+      "en": "Kielce"
+    },
+    "Q1720": {
+      "fr": "Mayence",
+      "zh": "美因茨",
+      "en": "Mainz"
+    },
+    "Q1874": {
+      "fr": "Odessa",
+      "zh": "敖德薩",
+      "en": "Odessa"
+    },
+    "Q588": {
+      "fr": "Katowice",
+      "zh": "卡托维兹",
+      "en": "Katowice"
+    },
+    "Q598": {
+      "fr": "Rzeszów",
+      "zh": "热舒夫",
+      "en": "Rzeszów"
+    },
+    "Q1842": {
+      "fr": "Luxembourg",
+      "zh": "卢森堡市",
+      "en": "Luxembourg"
+    },
+    "Q43475": {
+      "fr": "Derby",
+      "zh": "德比",
+      "en": "Derby"
+    },
+    "Q56036": {
+      "fr": "Berlin-Ouest",
+      "zh": "西柏林",
+      "en": "West Berlin"
+    },
+    "Q2833": {
+      "fr": "Fribourg-en-Brisgau",
+      "zh": "弗赖堡",
+      "en": "Freiburg im Breisgau"
+    },
+    "Q2119": {
+      "fr": "Mannheim",
+      "zh": "曼海姆",
+      "en": "Mannheim"
+    },
+    "Q1647": {
+      "fr": "Rijeka",
+      "zh": "里耶卡",
+      "en": "Rijeka"
+    },
+    "Q891": {
+      "fr": "Nijni Novgorod",
+      "zh": "下诺夫哥罗德",
+      "en": "Nizhny Novgorod"
+    },
+    "Q2978": {
+      "fr": "Ratisbonne",
+      "zh": "雷根斯堡",
+      "en": "Regensburg"
+    },
+    "Q459": {
+      "fr": "Plovdiv",
+      "zh": "普罗夫迪夫",
+      "en": "Plovdiv"
+    },
+    "Q1729": {
+      "fr": "Erfurt",
+      "zh": "埃尔福特",
+      "en": "Erfurt"
+    },
+    "Q279": {
+      "fr": "Modène",
+      "zh": "摩德納",
+      "en": "Modena"
+    },
+    "Q56037": {
+      "fr": "Berlin-Est",
+      "zh": "东柏林",
+      "en": "East Berlin"
+    },
+    "Q908": {
+      "fr": "Rostov-sur-le-Don",
+      "zh": "顿河畔罗斯托夫",
+      "en": "Rostov-on-Don"
+    },
+    "Q25409": {
+      "fr": "Košice",
+      "zh": "科希策",
+      "en": "Košice"
+    },
+    "Q1010": {
+      "fr": "Maribor",
+      "zh": "马里博尔",
+      "en": "Maribor"
+    },
+    "Q385": {
+      "fr": "Gdynia",
+      "zh": "格丁尼亚",
+      "en": "Gdynia"
+    },
+    "Q216173": {
+      "fr": "Ville libre de Dantzig",
+      "zh": "但澤自由市",
+      "en": "Free City of Danzig"
+    },
+    "Q25607": {
+      "fr": "Saint-Gall",
+      "zh": "圣加仑",
+      "en": "St. Gallen"
+    },
+    "Q1308": {
+      "fr": "Côme",
+      "zh": "科莫",
+      "en": "Como"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q84",
+      "Q90",
+      "Q649",
+      "Q1524",
+      "Q656",
+      "Q270",
+      "Q1761",
+      "Q2807",
+      "Q240",
+      "Q406",
+      "Q1781",
+      "Q2044"
+    ],
+    "rares": [
+      "Q71",
+      "Q1794",
+      "Q597",
+      "Q1757",
+      "Q31487",
+      "Q72",
+      "Q268",
+      "Q36600",
+      "Q19660",
+      "Q456",
+      "Q2079",
+      "Q472",
+      "Q216",
+      "Q1773",
+      "Q7880",
+      "Q393",
+      "Q1770",
+      "Q994",
+      "Q761",
+      "Q70",
+      "Q586",
+      "Q79848",
+      "Q72259",
+      "Q1764",
+      "Q102317",
+      "Q1720",
+      "Q1874",
+      "Q588",
+      "Q598",
+      "Q1842",
+      "Q43475",
+      "Q56036",
+      "Q2833",
+      "Q2119",
+      "Q1647",
+      "Q891",
+      "Q2978",
+      "Q459",
+      "Q1729",
+      "Q279",
+      "Q56037",
+      "Q908",
+      "Q25409",
+      "Q1010",
+      "Q385",
+      "Q216173",
+      "Q25607",
+      "Q1308"
+    ]
+  }
+}

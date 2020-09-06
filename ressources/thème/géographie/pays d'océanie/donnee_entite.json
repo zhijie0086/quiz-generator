@@ -1,0 +1,117 @@
+{
+"appelation" : { 
+          "fr" : ["pays", "pays d'océanie"],
+          "en" : ["country","Oceania country"],
+	      "zh" : ["国家","大洋洲国家"]
+    },
+
+
+
+  "libelle": {
+   
+    "Q408": {
+      "fr": "Australie",
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "Q664": {
+      "fr": "Nouvelle-Zélande",
+      "zh": "新西兰",
+      "en": "New Zealand"
+    },
+    "Q691": {
+      "fr": "Papouasie-Nouvelle-Guinée",
+      "zh": "巴布亚新几内亚",
+      "en": "Papua New Guinea"
+    },
+    "Q712": {
+      "fr": "Fidji",
+      "zh": "斐濟",
+      "en": "Fiji"
+    },
+    "Q685": {
+      "fr": "Îles Salomon",
+      "zh": "所罗门群岛",
+      "en": "Solomon Islands"
+    },
+    "Q683": {
+      "fr": "Samoa",
+      "zh": "萨摩亚",
+      "en": "Samoa"
+    },
+    "Q686": {
+      "fr": "Vanuatu",
+      "zh": "萬那杜",
+      "en": "Vanuatu"
+    },
+    "Q678": {
+      "fr": "Tonga",
+      "zh": "東加",
+      "en": "Tonga"
+    },
+    "Q695": {
+      "fr": "Palaos",
+      "zh": "帛琉",
+      "en": "Palau"
+    },
+    "Q709": {
+      "fr": "Îles Marshall",
+      "zh": "馬紹爾群島",
+      "en": "Marshall Islands"
+    },
+    "Q702": {
+      "fr": "États fédérés de Micronésie",
+      "zh": "密克罗尼西亚联邦",
+      "en": "Federated States of Micronesia"
+    },
+    "Q672": {
+      "fr": "Tuvalu",
+      "zh": "吐瓦魯",
+      "en": "Tuvalu"
+    },
+    "Q697": {
+      "fr": "Nauru",
+      "zh": "諾魯",
+      "en": "Nauru"
+    },
+    "Q710": {
+      "fr": "Kiribati",
+      "zh": "吉里巴斯",
+      "en": "Kiribati"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q408",
+      "Q664",
+      "Q691",
+      "Q712",
+      "Q685",
+	  "Q683",
+      "Q686",
+      "Q678",
+      "Q695",
+      "Q709",
+      "Q702",
+      "Q672",
+      "Q697",
+      "Q710"
+    ],
+    "rares": [
+	  "Q408",
+      "Q664",
+      "Q691",
+      "Q712",
+      "Q685",
+      "Q683",
+      "Q686",
+      "Q678",
+      "Q695",
+      "Q709",
+      "Q702",
+      "Q672",
+      "Q697",
+      "Q710"
+    ]
+  }
+}

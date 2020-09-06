@@ -1,0 +1,180 @@
+{
+   "P6": {
+        "alias" : { "fr": ["maire"],
+                    "en": [" mayor", "head of government"],
+                    "zh": ["政府首脑","市长"]},
+        "type" : "personne",
+		"verbal" : ""
+		
+		},
+ 
+  "P18": {
+          "alias" :{"fr": ["photo", "portrait", "image"],
+                    "en": [" illustration"," portrait", " photo"," picture"],
+                    "zh": ["图片","照片"]},
+		  "type" : "image",
+		  "verbal" : {"fr":["est montré "],
+                      "en":["is shown in "],
+                      "zh":["显示在"]}
+       },
+ 
+ 
+   "P41": {
+            "alias" : {"fr": [
+                    "drapeau (image)",
+                    "image du drapeau"
+                     ],
+             "en": [
+                    
+                    "image of flag",
+                    "flag image"
+                   ],
+            "zh": [
+                "旗帜图像"
+                 ]
+			   },
+		 "type" : "normal",
+		 "verbal" : "" 
+  }	,
+ "P47": {"alias":  { "fr": [ "ville frontière"],
+                     "en": [ "border towns", "border cities"],
+                     "zh": ["相邻城市"]},
+		  "type" : "normal",
+		  "verbal" :{"fr": ["est  adjacent à"],
+		              "en": [" is adjacent to", " is bordered by"," is next to","is sharing border with"],
+                      "zh": ["接壤于"]
+		             }          
+         },
+  "P94": {
+      "alias" : {"fr": [
+      
+     
+      " blason",
+      
+      "image du blason"
+    ],
+    "en": [
+      
+      "image of coat of arms",
+      "coat of arms image"
+    ],
+    "zh": [
+     
+      "纹章图像"
+    ]},
+	"type" :"normal",
+	"verbal" : ""
+  },
+  "P190": { "alias" : {"fr": [ "ville jumelle", " villes jumelles", " villes partenaires"],
+                         "en": [ "twin town", "partner city", "partner town", "sister city", "sister town", "twin cities", "twin city"],
+                         "zh"    : [ "姐妹城市", "友好城市"]
+                         },
+              "type" : "normal",
+              "verbal" : ""			  
+	        },
+  "P206": {
+    "alias" :{ "fr": [
+      "lac(rivière) adjacent",
+      "lac(rivière) lié"
+    ],
+    "en": [
+      
+      "linked body of water",
+	  "linked lake(river)"
+    ],
+    "zh": [
+      "相接水体"
+    ]},
+	"type" :"normal",
+	"verbal" : {"fr": ["est arrosé(e) par", "est sur le bord de", "est sur les rives de", "est sur le bord de", "est baigné par"],
+		              "en": [" is adjacent to", " is bordered by"," is next to","is on the coast of","is located on body of"],
+                      "zh": ["相接于"]
+		             }  
+  },
+  "P281": {"alias": {   "fr": [
+                 "code postal"
+                     ],
+             "en": [
+               
+                 "post code",
+                 "postal index number",
+                 "postcode",
+                 "zip code",
+                 "zipcode",
+                 "postal code"
+                  ],
+             "zh": [
+                "邮编",
+                "邮政编码"
+                  ]
+				},
+		 "type" : "normal",
+		 "verbal" : ""
+  },	
+  "P17": {"alias" :{ "fr": [ "État", "pays"],
+                     "en": [ "host country", "country"],
+                     "zh": ["国家"]},
+		  "type" : "localisation",
+          "verbal" :{"fr": [ "se situe", "se localise"],
+                             "en": ["is located", "is positioned" ],
+                             "zh": ["属于","位于"]}
+		 },	 
+ 
+ 
+  
+ "P1082": { "alias" : {"fr": [ "nombre d'habitants", "population"],
+                          "en": [ "human population", "population"],
+                          "zh": [ "人口", "人口数量"]
+						  },
+				"type" : "quantité",
+			    "verbal" : ""
+  
+    },   
+ 
+   "P1549": {"alias" : {  "fr": [
+                           "nom d'habitants",
+                            "gentilé"
+                      ],
+                "en": [
+                     "gentilic"
+              
+                      ],
+                "zh": [
+                    "居民称谓"
+                       ]
+					},
+			"type" : "normal",
+			"verbal":""
+  },   
+   "P2044": {  "alias" : {"fr": [ "altitude", "élévation au-dessus du niveau des mers", "altitude"],
+                              "en": [ "altitude", "elevation above mean sea level", "elevation above sea level"],
+                              "zh": [ "海拔"]
+                             },
+                "type" : "hauteur" ,
+                "verbal" : ""				
+			   },
+  		  
+    "P2046":{"alias" : {"fr": ["étendue","superficie"],
+                         "en": ["size", "surface","surface area"],
+                         "zh": ["面积"]
+						},
+			  "type" : "superficie",
+              "verbal" :{"fr": [ " s'étend " ],
+                         "en": [ " extends" ],
+                         "zh": [ " 的面积是 " ]
+                        }
+             },
+	 "P571": {"alias" : { "fr": [" date de création"," date de construction", " date de formation"],
+                           "en": [" date of establishment", " date of founding"," establishment date"," founding date",
+                                  " date of creation", " date of foundation"],
+                           "zh": ["成立时间","建立时间"]},
+					"type"  : "temps",
+					"verbal": {"fr":["a été fondé(e) ", "a été créé(e)", "a été formé(e)"],
+                               "en": ["was founded", "was established", "was created"],
+                               "zh": ["创建于","成立于"]}
+			  },
+			  	 
+	 "populaires" : ["P17","P18","P6","P1549"],
+     "rares" : ["P281","P41","P47","P94","P206","P1082","P571","P190","P2044","P2046"]
+  
+}

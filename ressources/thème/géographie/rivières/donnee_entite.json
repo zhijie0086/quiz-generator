@@ -1,0 +1,165 @@
+{  "appelation" : { 
+          "fr" : ["rivière(s)","grande(s) rivière(s)"],
+          "en" : ["river(s)","river(s) in the world","long river(s)"],
+	      "zh" : ["河流","大河","长河"]
+    },
+  "libelle": {
+    "Q3392": {
+      "fr": "Nil",
+      "zh": "尼罗河",
+      "en": "Nile"
+    },
+    "Q3783": {
+      "fr": "Amazone",
+      "zh": "亚马逊河",
+      "en": "Amazon"
+    },
+    "Q5413": {
+      "fr": "Yangzi Jiang",
+      "zh": "长江",
+      "en": "Yangtze"
+    },
+    "Q7355": {
+      "fr": "Huang He",
+      "zh": "黄河",
+      "en": "Yellow River"
+    },
+  
+    "Q127892": {
+      "fr": "Paraná",
+      "zh": "巴拉那河",
+      "en": "Paraná River"
+    },
+  
+    "Q3503": {
+      "fr": "Congo (fleuve)",
+      "zh": "刚果河",
+      "en": "Congo river"
+    },
+    "Q41179": {
+      "fr": "Mékong",
+      "zh": "湄公河",
+      "en": "Mekong River"
+    },
+    "Q46841": {
+      "fr": "Léna",
+      "zh": "勒拿河",
+      "en": "Lena River"
+    },
+    "Q128102": {
+      "fr": "Irtych",
+      "zh": "额尔齐斯河",
+      "en": "Irtysh river"
+    },
+    "Q3542": {
+      "fr": "Niger",
+      "zh": "尼日尔河",
+      "en": "Niger River"
+    },
+   
+    "Q5419": {
+      "fr": "Missouri",
+      "zh": "密苏里河",
+      "en": "Missouri River"
+    },
+    "Q973": {
+      "fr": "Ob",
+      "zh": "鄂畢河",
+      "en": "Ob"
+    },
+    "Q626": {
+      "fr": "Volga",
+      "zh": "伏尔加河",
+      "en": "Volga"
+    },
+    "Q78707": {
+      "fr": "Ienisseï",
+      "zh": "葉尼塞河",
+      "en": "Yenisei"
+    },
+    "Q104437": {
+      "fr": "Yukon",
+      "zh": "育空河",
+      "en": "Yukon River"
+    },
+    "Q7348": {
+      "fr": "Indus",
+      "zh": "印度河",
+      "en": "Indus River"
+    },
+    "Q45403": {
+      "fr": "Brahmapoutre",
+      "zh": "布拉马普特拉河",
+      "en": "Brahmaputra River"
+    },
+    "Q117526": {
+      "fr": "rio Juruá",
+      "zh": "茹魯阿河",
+      "en": "Jurua River"
+    },
+    "Q160636": {
+      "fr": "río Grande",
+      "zh": "格蘭德河",
+      "en": "Rio Grande"
+    },
+    "Q26428": {
+      "fr": "Toungouska Inférieure",
+      "zh": "下通古斯河",
+      "en": "Nizhnyaya Tunguska River"
+    },
+    "Q26271": {
+      "fr": "rio Purus",
+      "zh": "普魯斯河",
+      "en": "Purus River"
+    },
+    "Q1653": {
+      "fr": "Danube",
+      "zh": "多瑙河",
+      "en": "Danube"
+    },
+    "Q3244259": {
+      "fr": "Yarlung Tsangpo",
+      "zh": "雅鲁藏布江",
+      "en": "Yarlung Tsangpo River"
+    },
+    "Q142148": {
+      "fr": "rio São Francisco",
+      "zh": "聖弗朗西斯科河",
+      "en": "São Francisco River"
+    }
+  },
+  "dif": {
+    "populaires": [
+      "Q3392",
+      "Q3783",
+      "Q5413",
+      "Q7355",
+	  "Q127892",
+      "Q3503",
+	  "Q41179",
+      "Q46841",
+      "Q128102",
+      "Q3542"
+    ],
+    "rares": [	 
+      "Q41179",
+      "Q46841",
+      "Q128102",
+      "Q3542",
+      "Q5419",
+      "Q973",
+      "Q626",
+      "Q78707",
+      "Q104437",
+      "Q7348",
+      "Q45403",
+      "Q117526",
+      "Q160636",
+      "Q26428",
+      "Q26271",
+      "Q1653",
+      "Q3244259",
+      "Q142148"
+    ]
+  }
+}
